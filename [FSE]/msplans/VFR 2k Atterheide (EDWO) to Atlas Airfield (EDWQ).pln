@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EDWO to EDWQ</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2000</CruisingAlt>
+        <DepartureID>EDWO</DepartureID>
+        <DepartureLLA>N52° 17' 11.55",E7° 57' 52.12",+000287.00</DepartureLLA>
+        <DestinationID>EDWQ</DestinationID>
+        <DestinationLLA>N53° 2' 9.60",E8° 30' 18.57",+000096.00</DestinationLLA>
+        <Descr>EDWO, EDWQ</Descr>
+        <DeparturePosition>9</DeparturePosition>
+        <DepartureName>Atterheide</DepartureName>
+        <DestinationName>Atlas Airfield</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDWO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 17' 16.00",E7° 58' 27.00",+000287.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDWO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDWQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N53° 2' 9.60",E8° 30' 18.57",+000096.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDWQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

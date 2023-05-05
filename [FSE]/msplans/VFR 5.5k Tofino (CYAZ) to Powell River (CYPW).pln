@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>CYAZ to CYPW</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>5500</CruisingAlt>
+        <DepartureID>CYAZ</DepartureID>
+        <DepartureLLA>N49° 4' 54.54",W125° 46' 55.08",+000080.00</DepartureLLA>
+        <DestinationID>CYPW</DestinationID>
+        <DestinationLLA>N49° 50' 2.69",W124° 30' 0.99",+000425.00</DestinationLLA>
+        <Descr>CYAZ, CYPW</Descr>
+        <DeparturePosition>11</DeparturePosition>
+        <DepartureName>Tofino</DepartureName>
+        <DestinationName>Powell River</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CYAZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 4' 55.45",W125° 46' 20.61",+000080.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYAZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="YAZ">
+            <ATCWaypointType>NDB</ATCWaypointType>
+            <WorldPosition>N49° 2' 48.65",W125° 42' 15.10",+002130.25</WorldPosition>
+            <ICAO>
+                <ICAORegion>CY</ICAORegion>
+                <ICAOIdent>YAZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ROYST">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N49° 35' 29.00",W125° 7' 35.00",+005500.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>CY</ICAORegion>
+                <ICAOIdent>ROYST</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYPW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 50' 2.69",W124° 30' 0.99",+000425.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYPW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
