@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LOWW to LOGM</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>5000</CruisingAlt>
+        <DepartureID>LOWW</DepartureID>
+        <DepartureLLA>N48° 6' 33.02",E16° 34' 30.92",+000600.00</DepartureLLA>
+        <DestinationID>LOGM</DestinationID>
+        <DestinationLLA>N47° 47' 22.00",E15° 18' 1.00",+002822.00</DestinationLLA>
+        <Descr>LOWW, LOGM</Descr>
+        <DeparturePosition>29</DeparturePosition>
+        <DepartureName>Schwechat</DepartureName>
+        <DestinationName>Mariazell Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LOWW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 6' 37.00",E16° 34' 10.98",+000600.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LOWW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LOGM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 47' 22.00",E15° 18' 1.00",+002822.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LOGM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

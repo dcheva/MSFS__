@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>83Q to 86WA</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2000</CruisingAlt>
+        <DepartureID>83Q</DepartureID>
+        <DepartureLLA>N47° 43' 15.51",W122° 38' 31.50",+000000.00</DepartureLLA>
+        <DestinationID>86WA</DestinationID>
+        <DestinationLLA>N47° 0' 14.36",W122° 14' 8.42",+000720.00</DestinationLLA>
+        <Descr>83Q, 86WA</Descr>
+        <DepartureName>Port Of Poulsbo Marina Moorage Seaplane Base</DepartureName>
+        <DestinationName>Kapowsin Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="83Q">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 43' 15.51",W122° 38' 31.50",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>83Q</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="86WA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 0' 14.36",W122° 14' 8.42",+000720.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>86WA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

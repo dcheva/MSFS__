@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LOWW to LOWG</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>6000</CruisingAlt>
+        <DepartureID>LOWW</DepartureID>
+        <DepartureLLA>N48° 7' 10.36",E16° 34' 41.80",+000600.00</DepartureLLA>
+        <DestinationID>LOWG</DestinationID>
+        <DestinationLLA>N46° 59' 35.01",E15° 26' 20.99",+001120.00</DestinationLLA>
+        <Descr>LOWW, LOWG</Descr>
+        <DeparturePosition>16</DeparturePosition>
+        <DepartureName>Schwechat</DepartureName>
+        <DestinationName>Graz</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LOWW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 6' 36.99",E16° 34' 10.98",+000600.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LOWW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LOWG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 59' 35.01",E15° 26' 20.99",+001120.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LOWG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

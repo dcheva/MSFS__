@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EDHI to EDVK</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>EDHI</DepartureID>
+        <DepartureLLA>N53° 32' 19.62",E9° 50' 34.48",+000021.00</DepartureLLA>
+        <DestinationID>EDVK</DestinationID>
+        <DestinationLLA>N51° 25' 14.96",E9° 23' 31.63",+000851.00</DestinationLLA>
+        <Descr>EDHI, EDVK</Descr>
+        <DeparturePosition>23</DeparturePosition>
+        <DepartureName>Finkenwerder</DepartureName>
+        <DestinationName>Airport Kassel-Calden</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDHI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N53° 32' 1.67",E9° 49' 56.25",+000021.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDHI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDVK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N51° 25' 14.96",E9° 23' 31.63",+000851.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDVK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

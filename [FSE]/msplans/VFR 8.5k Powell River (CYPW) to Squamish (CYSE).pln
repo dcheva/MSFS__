@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>CYPW to CYSE</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>8500</CruisingAlt>
+        <DepartureID>CYPW</DepartureID>
+        <DepartureLLA>N49° 50' 8.47",W124° 30' 25.82",+000425.00</DepartureLLA>
+        <DestinationID>CYSE</DestinationID>
+        <DestinationLLA>N49° 46' 54.00",W123° 9' 42.99",+000171.00</DestinationLLA>
+        <Descr>CYPW, CYSE</Descr>
+        <DeparturePosition>9</DeparturePosition>
+        <DepartureName>Powell River</DepartureName>
+        <DestinationName>Squamish</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CYPW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 50' 2.69",W124° 30' 0.99",+000425.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYPW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYSE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 46' 54.00",W123° 9' 42.99",+000171.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYSE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

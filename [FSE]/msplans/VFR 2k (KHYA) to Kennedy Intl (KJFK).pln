@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>KHYA to KJFK</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2000</CruisingAlt>
+        <DepartureID>KHYA</DepartureID>
+        <DepartureLLA>N41° 40' 28.47",W70° 17' 29.94",+000054.00</DepartureLLA>
+        <DestinationID>KJFK</DestinationID>
+        <DestinationLLA>N40° 38' 28.93",W73° 46' 39.62",+000012.00</DestinationLLA>
+        <Descr>KHYA, KJFK</Descr>
+        <DeparturePosition>15</DeparturePosition>
+        <DepartureName>Barnstable Muni-Boardman/Polan</DepartureName>
+        <DestinationName>Kennedy Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KHYA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 40' 9.60",W70° 16' 49.29",+000054.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KHYA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KJFK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 38' 28.93",W73° 46' 39.62",+000012.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KJFK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

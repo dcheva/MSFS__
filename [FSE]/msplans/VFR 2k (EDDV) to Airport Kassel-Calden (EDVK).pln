@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EDDV to EDVK</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>EDDV</DepartureID>
+        <DepartureLLA>N52° 28' 1.05",E9° 41' 57.41",+000183.00</DepartureLLA>
+        <DestinationID>EDVK</DestinationID>
+        <DestinationLLA>N51° 25' 14.96",E9° 23' 31.63",+000851.00</DestinationLLA>
+        <Descr>EDDV, EDVK</Descr>
+        <DeparturePosition>27R</DeparturePosition>
+        <DepartureName>Hannover</DepartureName>
+        <DestinationName>Airport Kassel-Calden</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDDV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 27' 36.77",E9° 41' 0.66",+000183.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDDV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDVK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N51° 25' 14.96",E9° 23' 31.63",+000851.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDVK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

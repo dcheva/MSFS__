@@ -2,7 +2,7 @@
 <LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
   <AircraftPerf>
     <Header>
-      <CreationDate>2023-05-04T16:45:57+03:00</CreationDate>
+      <CreationDate>2023-05-06T12:13:48+03:00</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -13,33 +13,33 @@
       <AircraftType>G21</AircraftType>
       <Simulator></Simulator>
       <Description></Description>
-      <FuelAsVolume>0</FuelAsVolume>
+      <FuelAsVolume>1</FuelAsVolume>
       <JetFuel>0</JetFuel>
     </Options>
     <Perf>
       <ContingencyFuelPercent>0.0</ContingencyFuelPercent>
       <ExtraFuelLbsGal>0.000</ExtraFuelLbsGal>
       <MinRunwayLengthFt>2000.000</MinRunwayLengthFt>
-      <ReserveFuelLbsGal>400.000</ReserveFuelLbsGal>
+      <ReserveFuelLbsGal>67.000</ReserveFuelLbsGal>
       <RunwayType>SOFT</RunwayType>
       <TaxiFuelLbsGal>0.000</TaxiFuelLbsGal>
-      <UsableFuelLbsGal>2000.000</UsableFuelLbsGal>
+      <UsableFuelLbsGal>333.000</UsableFuelLbsGal>
       <Alternate>
-        <FuelFlowLbsGalPerHour>400.000</FuelFlowLbsGalPerHour>
-        <SpeedKtsTAS>165.000</SpeedKtsTAS>
+        <FuelFlowLbsGalPerHour>38.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>120.000</SpeedKtsTAS>
       </Alternate>
       <Climb>
-        <FuelFlowLbsGalPerHour>440.000</FuelFlowLbsGalPerHour>
-        <SpeedKtsTAS>150.000</SpeedKtsTAS>
-        <VertSpeedFtPerMin>1000.000</VertSpeedFtPerMin>
+        <FuelFlowLbsGalPerHour>46.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>135.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>800.000</VertSpeedFtPerMin>
       </Climb>
       <Cruise>
-        <FuelFlowLbsGalPerHour>400.000</FuelFlowLbsGalPerHour>
+        <FuelFlowLbsGalPerHour>35.000</FuelFlowLbsGalPerHour>
         <SpeedKtsTAS>165.000</SpeedKtsTAS>
       </Cruise>
       <Descent>
-        <FuelFlowLbsGalPerHour>200.000</FuelFlowLbsGalPerHour>
-        <SpeedKtsTAS>150.000</SpeedKtsTAS>
+        <FuelFlowLbsGalPerHour>10.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>120.000</SpeedKtsTAS>
         <VertSpeedFtPerMin>1000.000</VertSpeedFtPerMin>
       </Descent>
     </Perf>
