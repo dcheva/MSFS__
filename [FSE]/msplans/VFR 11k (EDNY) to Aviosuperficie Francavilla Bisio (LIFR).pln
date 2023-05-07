@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EDNY to LIFR</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>11000</CruisingAlt>
+        <DepartureID>EDNY</DepartureID>
+        <DepartureLLA>N47° 40' 31.95",E9° 31' 20.58",+001368.00</DepartureLLA>
+        <DestinationID>LIFR</DestinationID>
+        <DestinationLLA>N44° 43' 50.43",E8° 43' 45.18",+000506.00</DestinationLLA>
+        <Descr>EDNY, LIFR</Descr>
+        <DeparturePosition>24</DeparturePosition>
+        <DepartureName>Friedrichshafen</DepartureName>
+        <DestinationName>Aviosuperficie Francavilla Bisio</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDNY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 40' 16.74",E9° 30' 41.36",+001368.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDNY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LIFR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 43' 50.43",E8° 43' 45.18",+000506.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LIFR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EDNY to LIRF</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>11000</CruisingAlt>
+        <DepartureID>EDNY</DepartureID>
+        <DepartureLLA>N47° 40' 2.63",E9° 30' 4.78",+001368.00</DepartureLLA>
+        <DestinationID>LIRF</DestinationID>
+        <DestinationLLA>N41° 48' 1.01",E12° 14' 20.01",+000014.00</DestinationLLA>
+        <Descr>EDNY, LIRF</Descr>
+        <DeparturePosition>6</DeparturePosition>
+        <DepartureName>Friedrichshafen</DepartureName>
+        <DestinationName>Fiumicino</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDNY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 40' 16.74",E9° 30' 41.36",+001368.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDNY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LIRF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 48' 1.01",E12° 14' 20.01",+000014.00</WorldPosition>
+            <SuffixFP>Y</SuffixFP>
+            <ApproachTypeFP>ILS</ApproachTypeFP>
+            <RunwayNumberFP>16</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>LIRF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>NZGB to NZWR</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2000</CruisingAlt>
+        <DepartureID>NZGB</DepartureID>
+        <DepartureLLA>S36° 14' 21.08",E175° 27' 51.90",+000021.00</DepartureLLA>
+        <DestinationID>NZWR</DestinationID>
+        <DestinationLLA>S35° 46' 6.00",E174° 21' 54.07",+000133.00</DestinationLLA>
+        <Descr>NZGB, NZWR</Descr>
+        <DeparturePosition>10</DeparturePosition>
+        <DepartureName>Great Barrier</DepartureName>
+        <DestinationName>Whangarei</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="NZGB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S36° 14' 28.99",E175° 28' 19.04",+000021.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZGB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZWR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S35° 46' 6.00",E174° 21' 54.07",+000133.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZWR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

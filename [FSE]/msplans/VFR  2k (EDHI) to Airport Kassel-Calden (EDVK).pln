@@ -1,36 +1,41 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<SimBase.Document Type="AceXML" version="1,0">
-    <Descr>AceXML Document</Descr>
-    <FlightPlan.FlightPlan>
-        <Title>EDHI to EDVK</Title>
-        <FPType>VFR</FPType>
-        <RouteType>Direct</RouteType>
-        <CruisingAlt>2500</CruisingAlt>
-        <DepartureID>EDHI</DepartureID>
-        <DepartureLLA>N53° 32' 19.62",E9° 50' 34.48",+000021.00</DepartureLLA>
-        <DestinationID>EDVK</DestinationID>
-        <DestinationLLA>N51° 25' 14.96",E9° 23' 31.63",+000851.00</DestinationLLA>
-        <Descr>EDHI, EDVK</Descr>
-        <DeparturePosition>23</DeparturePosition>
-        <DepartureName>Finkenwerder</DepartureName>
-        <DestinationName>Airport Kassel-Calden</DestinationName>
-        <AppVersion>
-            <AppVersionMajor>11</AppVersionMajor>
-            <AppVersionBuild>282174</AppVersionBuild>
-        </AppVersion>
-        <ATCWaypoint id="EDHI">
-            <ATCWaypointType>Airport</ATCWaypointType>
-            <WorldPosition>N53° 32' 1.67",E9° 49' 56.25",+000021.00</WorldPosition>
-            <ICAO>
-                <ICAOIdent>EDHI</ICAOIdent>
-            </ICAO>
-        </ATCWaypoint>
-        <ATCWaypoint id="EDVK">
-            <ATCWaypointType>Airport</ATCWaypointType>
-            <WorldPosition>N51° 25' 14.96",E9° 23' 31.63",+000851.00</WorldPosition>
-            <ICAO>
-                <ICAOIdent>EDVK</ICAOIdent>
-            </ICAO>
-        </ATCWaypoint>
-    </FlightPlan.FlightPlan>
-</SimBase.Document>
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>VFR</FlightplanType>
+      <CruisingAlt>11000</CruisingAlt>
+      <CreationDate>2023-05-06T19:28:53+03:00</CreationDate>
+      <FileVersion>1.1</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.8.10</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>Cessna Longitude Asobo.lnmperf</FilePath>
+      <Type>C700</Type>
+      <Name>Cessna Longitude Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="9.522385" Lat="47.675541" Alt="1368.00"/>
+      <Start>24</Start>
+      <Type>Runway</Type>
+      <Heading>240.119</Heading>
+    </Departure>
+    <Waypoints>
+      <Waypoint>
+        <Name>Friedrichshafen</Name>
+        <Ident>EDNY</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="9.511490" Lat="47.671318" Alt="1368.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Aviosuperficie Francavilla Bisio</Name>
+        <Ident>LIFR</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="8.729218" Lat="44.730675" Alt="506.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>
