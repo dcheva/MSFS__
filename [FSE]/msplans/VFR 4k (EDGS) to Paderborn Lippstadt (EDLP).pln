@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EDGS to EDLP</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>4000</CruisingAlt>
+        <DepartureID>EDGS</DepartureID>
+        <DepartureLLA>N50° 42' 14.22",E8° 5' 25.42",+001966.00</DepartureLLA>
+        <DestinationID>EDLP</DestinationID>
+        <DestinationLLA>N51° 36' 50.72",E8° 36' 58.74",+000678.00</DestinationLLA>
+        <Descr>EDGS, EDLP</Descr>
+        <DeparturePosition>31</DeparturePosition>
+        <DepartureName>Siegerland</DepartureName>
+        <DestinationName>Paderborn/Lippstadt</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDGS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 42' 27.56",E8° 4' 58.72",+001966.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDGS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDLP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N51° 36' 50.72",E8° 36' 58.74",+000678.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDLP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

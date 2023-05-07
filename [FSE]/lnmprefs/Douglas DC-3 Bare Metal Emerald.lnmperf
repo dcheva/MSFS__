@@ -2,7 +2,7 @@
 <LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
   <AircraftPerf>
     <Header>
-      <CreationDate>2023-05-04T02:18:47+03:00</CreationDate>
+      <CreationDate>2023-05-07T23:15:19+03:00</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -16,8 +16,15 @@
 ui_autonomy=6                ; @200 kts | 7                  | 9
 ui_fuel_burn_rate=150      ; @200 kts | 100                | 80
 
+@FL12
+(all75%) 90GPH 165kts
+1250nm 8hrs 
+@FL12
+(all85%) 115GPH 190kts
+1200nm 6hrs 
+
 @FL20
-(all90%) 85GPH 185kts TAS 225kts GS
+(all90%) 85GPH 185kts TAS 225kts
 
 </Description>
       <FuelAsVolume>1</FuelAsVolume>
@@ -41,8 +48,8 @@ ui_fuel_burn_rate=150      ; @200 kts | 100                | 80
         <VertSpeedFtPerMin>1400.000</VertSpeedFtPerMin>
       </Climb>
       <Cruise>
-        <FuelFlowLbsGalPerHour>80.000</FuelFlowLbsGalPerHour>
-        <SpeedKtsTAS>180.000</SpeedKtsTAS>
+        <FuelFlowLbsGalPerHour>115.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>190.000</SpeedKtsTAS>
       </Cruise>
       <Descent>
         <FuelFlowLbsGalPerHour>5.000</FuelFlowLbsGalPerHour>

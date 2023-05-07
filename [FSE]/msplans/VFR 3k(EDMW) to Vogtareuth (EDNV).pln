@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EDMW to EDNV</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>3000</CruisingAlt>
+        <DepartureID>EDMW</DepartureID>
+        <DepartureLLA>N48° 49' 48.50",E12° 52' 59.66",+001030.00</DepartureLLA>
+        <DestinationID>EDNV</DestinationID>
+        <DestinationLLA>N47° 56' 49.00",E12° 12' 22.02",+001535.00</DestinationLLA>
+        <Descr>EDMW, EDNV</Descr>
+        <DeparturePosition>27</DeparturePosition>
+        <DepartureName>Deggendorf</DepartureName>
+        <DestinationName>Vogtareuth</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDMW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 49' 48.60",E12° 52' 47.41",+001030.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDMW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDNV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 56' 49.00",E12° 12' 22.02",+001535.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDNV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

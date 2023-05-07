@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EDDS to LIPX</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>12000</CruisingAlt>
+        <DepartureID>EDDS</DepartureID>
+        <DepartureLLA>N48° 41' 11.57",E9° 12' 16.08",+001276.00</DepartureLLA>
+        <DestinationID>LIPX</DestinationID>
+        <DestinationLLA>N45° 23' 46.93",E10° 53' 16.47",+000240.00</DestinationLLA>
+        <Descr>EDDS, LIPX</Descr>
+        <DeparturePosition>7</DeparturePosition>
+        <DepartureName>Stuttgart</DepartureName>
+        <DestinationName>Villafranca</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDDS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 41' 23.12",E9° 13' 16.73",+001276.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDDS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LIPX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 23' 46.93",E10° 53' 16.47",+000240.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LIPX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

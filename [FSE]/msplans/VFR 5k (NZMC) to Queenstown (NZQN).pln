@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>NZMC to NZQN</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>5000</CruisingAlt>
+        <DepartureID>NZMC</DepartureID>
+        <DepartureLLA>S43° 45' 38.23",E170° 7' 51.97",+002153.00</DepartureLLA>
+        <DestinationID>NZQN</DestinationID>
+        <DestinationLLA>S45° 1' 10.59",E168° 44' 40.88",+001164.00</DestinationLLA>
+        <Descr>NZMC, NZQN</Descr>
+        <DeparturePosition>13</DeparturePosition>
+        <DepartureName>Mount Cook</DepartureName>
+        <DestinationName>Queenstown</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="NZMC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S43° 45' 54.00",E170° 8' 0.00",+002153.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZMC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZQN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S45° 1' 10.59",E168° 44' 40.88",+001164.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZQN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
