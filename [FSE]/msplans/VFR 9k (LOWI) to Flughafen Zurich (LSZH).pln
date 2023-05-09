@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LOWI to LSZH</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>9000</CruisingAlt>
+        <DepartureID>LOWI</DepartureID>
+        <DepartureLLA>N47° 15' 41.65",E11° 21' 23.81",+001900.00</DepartureLLA>
+        <DestinationID>LSZH</DestinationID>
+        <DestinationLLA>N47° 27' 30.22",E8° 32' 52.43",+001399.00</DestinationLLA>
+        <Descr>LOWI, LSZH</Descr>
+        <DeparturePosition>26</DeparturePosition>
+        <DepartureName>Innsbruck</DepartureName>
+        <DestinationName>Flughafen Zürich</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LOWI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 15' 36.75",E11° 20' 38.32",+001900.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LOWI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSZH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 27' 30.22",E8° 32' 52.43",+001399.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSZH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

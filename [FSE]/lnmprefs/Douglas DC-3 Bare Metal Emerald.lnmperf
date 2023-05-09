@@ -2,7 +2,7 @@
 <LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
   <AircraftPerf>
     <Header>
-      <CreationDate>2023-05-07T23:15:19+03:00</CreationDate>
+      <CreationDate>2023-05-09T02:52:31+03:00</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -19,10 +19,14 @@ ui_fuel_burn_rate=150      ; @200 kts | 100                | 80
 @FL12
 (all75%) 90GPH 165kts
 1250nm 8hrs 
+@FL9
+(all80%) 105GPH 170kts
+1200nm 7hrs 
+@FL9
+(all85%) 110GPH 175kts
 @FL12
 (all85%) 115GPH 190kts
 1200nm 6hrs 
-
 @FL20
 (all90%) 85GPH 185kts TAS 225kts
 
@@ -34,7 +38,7 @@ ui_fuel_burn_rate=150      ; @200 kts | 100                | 80
       <ContingencyFuelPercent>0.0</ContingencyFuelPercent>
       <ExtraFuelLbsGal>0.000</ExtraFuelLbsGal>
       <MinRunwayLengthFt>0.000</MinRunwayLengthFt>
-      <ReserveFuelLbsGal>74.000</ReserveFuelLbsGal>
+      <ReserveFuelLbsGal>70.000</ReserveFuelLbsGal>
       <RunwayType>SOFT</RunwayType>
       <TaxiFuelLbsGal>0.000</TaxiFuelLbsGal>
       <UsableFuelLbsGal>800.000</UsableFuelLbsGal>
@@ -43,13 +47,13 @@ ui_fuel_burn_rate=150      ; @200 kts | 100                | 80
         <SpeedKtsTAS>100.000</SpeedKtsTAS>
       </Alternate>
       <Climb>
-        <FuelFlowLbsGalPerHour>210.000</FuelFlowLbsGalPerHour>
-        <SpeedKtsTAS>110.000</SpeedKtsTAS>
-        <VertSpeedFtPerMin>1400.000</VertSpeedFtPerMin>
+        <FuelFlowLbsGalPerHour>190.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>130.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>1000.000</VertSpeedFtPerMin>
       </Climb>
       <Cruise>
-        <FuelFlowLbsGalPerHour>115.000</FuelFlowLbsGalPerHour>
-        <SpeedKtsTAS>190.000</SpeedKtsTAS>
+        <FuelFlowLbsGalPerHour>105.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>170.000</SpeedKtsTAS>
       </Cruise>
       <Descent>
         <FuelFlowLbsGalPerHour>5.000</FuelFlowLbsGalPerHour>

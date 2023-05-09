@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LIPX to LIRF</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>8000</CruisingAlt>
+        <DepartureID>LIPX</DepartureID>
+        <DepartureLLA>N45° 24' 13.86",E10° 54' 1.35",+000240.00</DepartureLLA>
+        <DestinationID>LIRF</DestinationID>
+        <DestinationLLA>N41° 48' 1.01",E12° 14' 20.01",+000014.00</DestinationLLA>
+        <Descr>LIPX, LIRF</Descr>
+        <DeparturePosition>22</DeparturePosition>
+        <DepartureName>Villafranca</DepartureName>
+        <DestinationName>Fiumicino</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LIPX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 23' 46.93",E10° 53' 16.47",+000240.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LIPX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LIRF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 48' 1.01",E12° 14' 20.01",+000014.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LIRF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

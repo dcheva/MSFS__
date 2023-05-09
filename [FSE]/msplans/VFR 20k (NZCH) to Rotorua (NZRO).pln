@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>NZCH to NZRO</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>20000</CruisingAlt>
+        <DepartureID>NZCH</DepartureID>
+        <DepartureLLA>S43° 29' 50.66",E172° 31' 20.20",+000123.00</DepartureLLA>
+        <DestinationID>NZRO</DestinationID>
+        <DestinationLLA>S38° 6' 32.98",E176° 19' 1.92",+000938.00</DestinationLLA>
+        <Descr>NZCH, NZRO</Descr>
+        <DeparturePosition>2</DeparturePosition>
+        <DepartureName>Christchurch Intl</DepartureName>
+        <DestinationName>Rotorua</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="NZCH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S43° 29' 21.99",E172° 32' 4.04",+000123.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZCH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZRO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S38° 6' 32.98",E176° 19' 1.92",+000938.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZRO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
