@@ -3,18 +3,18 @@ Version 66
 	Adapter "NVIDIA GeForce GTX 1660"
 	Monitor 0
 	Windowed 1
-	FullscreenBorderless 1
+	FullscreenBorderless 0
 	WindowActive 0
-	Resolution 1858 1057
+	Resolution 1440 810
 	FullScreenResolution 1920 1080
-	PosX 0
-	PosY 23
+	PosX 8
+	PosY 31
 	AntiAliasing TAA
 	DLSSMode AUTO
 	DLSSG 0
 	Reflex OFF
 	FSRMode BALANCED
-	PrimaryScaling 0.850000
+	PrimaryScaling 1.000000
 	SecondaryScaling 1.000000
 	SharpenAmount 1.000000
 	ReprojectionMode 0
@@ -28,7 +28,7 @@ Version 66
 	SecondaryScalingVR 1.000000
 	SharpenAmountVR 1.000000
 	VSync 1
-	HDR10 0
+	HDR10 1
 	Raytracing 0
 	PreferD3D12 0
 	IntelMessageBoxDisplayed 0
@@ -249,4 +249,4 @@ Version 66
 		Quality 1
 	}
 }
-InstalledPackagesPath "C:\Games\MSFS"
+InstalledPackagesPath "C:\Users\Dmytro\AppData\Roaming\Microsoft Flight Simulator\Packages"
