@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LTBJ to LIRF</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>33000</CruisingAlt>
+        <DepartureID>LTBJ</DepartureID>
+        <DepartureLLA>N38° 16' 41.02",E27° 9' 32.66",+000410.00</DepartureLLA>
+        <DestinationID>LIRF</DestinationID>
+        <DestinationLLA>N41° 48' 1.01",E12° 14' 20.01",+000014.00</DestinationLLA>
+        <Descr>LTBJ, LIRF</Descr>
+        <DeparturePosition>34L</DeparturePosition>
+        <DepartureName>Adnan Menderes</DepartureName>
+        <DestinationName>Fiumicino</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LTBJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 17' 21.00",E27° 9' 18.00",+000410.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LTBJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LIRF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 48' 1.01",E12° 14' 20.01",+000014.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LIRF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
