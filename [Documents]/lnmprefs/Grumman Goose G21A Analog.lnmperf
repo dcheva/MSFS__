@@ -2,7 +2,7 @@
 <LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
   <AircraftPerf>
     <Header>
-      <CreationDate>2023-05-09T00:11:42+03:00</CreationDate>
+      <CreationDate>2023-05-12T12:44:04+03:00</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -40,7 +40,7 @@
       <Descent>
         <FuelFlowLbsGalPerHour>10.000</FuelFlowLbsGalPerHour>
         <SpeedKtsTAS>120.000</SpeedKtsTAS>
-        <VertSpeedFtPerMin>1000.000</VertSpeedFtPerMin>
+        <VertSpeedFtPerMin>500.000</VertSpeedFtPerMin>
       </Descent>
     </Perf>
   </AircraftPerf>

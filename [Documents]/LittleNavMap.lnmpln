@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>VFR</FlightplanType>
+      <CruisingAlt>3000</CruisingAlt>
+      <CreationDate>2023-05-12T16:13:57+03:00</CreationDate>
+      <FileVersion>1.1</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.8.10</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>Grumman Goose G21A Analog.lnmperf</FilePath>
+      <Type>G21</Type>
+      <Name>Grumman Goose G21A</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="7.695419" Lat="52.133415" Alt="158.00"/>
+      <Start>PARKING 25</Start>
+      <Type>Parking</Type>
+      <Heading>154.31</Heading>
+    </Departure>
+    <Waypoints>
+      <Waypoint>
+        <Name>Munster/Osnabruck</Name>
+        <Ident>EDDG</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="7.684830" Lat="52.134640" Alt="158.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Hamm</Name>
+        <Ident>HMM</Ident>
+        <Region>ED</Region>
+        <Type>VOR</Type>
+        <Pos Lon="7.708294" Lat="51.856865" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>KOMIL</Ident>
+        <Region>ED</Region>
+        <Type>WAYPOINT</Type>
+        <Pos Lon="8.445191" Lat="51.544086" Alt="2828.85"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Paderborn/Lippstadt</Name>
+        <Ident>EDLP</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="8.616318" Lat="51.614090" Alt="686.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

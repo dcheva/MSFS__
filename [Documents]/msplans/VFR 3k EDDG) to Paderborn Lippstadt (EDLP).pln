@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EDDG to EDLP</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>3000</CruisingAlt>
+        <DepartureID>EDDG</DepartureID>
+        <DepartureLLA>N52° 8' 0.29",E7° 41' 43.51",+000158.00</DepartureLLA>
+        <DestinationID>EDLP</DestinationID>
+        <DestinationLLA>N51° 36' 50.72",E8° 36' 58.74",+000686.00</DestinationLLA>
+        <Descr>EDDG, EDLP</Descr>
+        <DeparturePosition>PARKING 25</DeparturePosition>
+        <DepartureName>Munster/Osnabruck</DepartureName>
+        <DestinationName>Paderborn/Lippstadt</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDDG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 8' 4.70",E7° 41' 5.39",+000158.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDDG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="HMM">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N51° 51' 24.71",E7° 42' 29.86",+003000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>ED</ICAORegion>
+                <ICAOIdent>HMM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KOMIL">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N51° 32' 38.71",E8° 26' 42.69",+002828.85</WorldPosition>
+            <ICAO>
+                <ICAORegion>ED</ICAORegion>
+                <ICAOIdent>KOMIL</ICAOIdent>
+                <ICAOAirport>EDLP</ICAOAirport>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDLP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N51° 36' 50.72",E8° 36' 58.74",+000686.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDLP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

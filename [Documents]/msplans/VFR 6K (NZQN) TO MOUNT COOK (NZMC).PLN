@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>NZQN to NZMC</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>6000</CruisingAlt>
+        <DepartureID>NZQN</DepartureID>
+        <DepartureLLA>S45° 1' 11.74",E168° 44' 9.79",+001164.00</DepartureLLA>
+        <DestinationID>NZMC</DestinationID>
+        <DestinationLLA>S43° 45' 54.00",E170° 8' 0.00",+002153.00</DestinationLLA>
+        <Descr>NZQN, NZMC</Descr>
+        <DeparturePosition>5</DeparturePosition>
+        <DepartureName>Queenstown</DepartureName>
+        <DestinationName>Mount Cook Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="NZQN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S45° 1' 10.59",E168° 44' 40.88",+001164.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZQN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="QN">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>S44° 59' 2.82",E168° 46' 57.55",+002770.63</WorldPosition>
+            <ICAO>
+                <ICAORegion>NZ</ICAORegion>
+                <ICAOIdent>QN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RY">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>S44° 8' 6.36",E170° 16' 49.97",+006000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>NZ</ICAORegion>
+                <ICAOIdent>RY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZMC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S43° 45' 54.00",E170° 8' 0.00",+002153.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZMC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
