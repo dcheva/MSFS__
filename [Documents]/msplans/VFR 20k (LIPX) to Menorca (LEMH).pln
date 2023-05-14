@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LIPX to LEMH</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>20000</CruisingAlt>
+        <DepartureID>LIPX</DepartureID>
+        <DepartureLLA>N45° 24' 13.86",E10° 54' 1.35",+000229.00</DepartureLLA>
+        <DestinationID>LEMH</DestinationID>
+        <DestinationLLA>N39° 51' 45.01",E4° 13' 7.01",+000288.00</DestinationLLA>
+        <Descr>LIPX, LEMH</Descr>
+        <DeparturePosition>22</DeparturePosition>
+        <DepartureName>Villafranca</DepartureName>
+        <DestinationName>Menorca</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LIPX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 23' 46.93",E10° 53' 16.47",+000229.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LIPX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LEMH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 51' 45.01",E4° 13' 7.01",+000288.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LEMH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

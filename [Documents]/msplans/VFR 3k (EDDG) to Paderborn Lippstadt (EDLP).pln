@@ -33,12 +33,12 @@
                 <ICAOIdent>HMM</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
-        <ATCWaypoint id="KOMIL">
+        <ATCWaypoint id="LP027">
             <ATCWaypointType>Intersection</ATCWaypointType>
-            <WorldPosition>N51° 32' 38.71",E8° 26' 42.69",+002828.85</WorldPosition>
+            <WorldPosition>N51° 30' 26.72",E8° 21' 21.66",+003000.00</WorldPosition>
             <ICAO>
                 <ICAORegion>ED</ICAORegion>
-                <ICAOIdent>KOMIL</ICAOIdent>
+                <ICAOIdent>LP027</ICAOIdent>
                 <ICAOAirport>EDLP</ICAOAirport>
             </ICAO>
         </ATCWaypoint>
