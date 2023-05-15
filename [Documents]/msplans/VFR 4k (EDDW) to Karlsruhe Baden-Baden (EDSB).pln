@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EDDW to EDSB</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>3500</CruisingAlt>
+        <DepartureID>EDDW</DepartureID>
+        <DepartureLLA>N53° 2' 46.87",E8° 47' 31.39",+000013.00</DepartureLLA>
+        <DestinationID>EDSB</DestinationID>
+        <DestinationLLA>N48° 46' 45.67",E8° 4' 49.82",+000405.00</DestinationLLA>
+        <Descr>EDDW, EDSB</Descr>
+        <DeparturePosition>23</DeparturePosition>
+        <DepartureName>Bremen</DepartureName>
+        <DestinationName>Karlsruhe/Baden-Baden</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDDW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N53° 2' 50.40",E8° 47' 12.00",+000013.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDDW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RID">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N49° 46' 54.09",E8° 32' 29.35",+003500.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>ED</ICAORegion>
+                <ICAOIdent>RID</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="BITSU">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N48° 56' 47.20",E8° 14' 13.89",+003500.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>ED</ICAORegion>
+                <ICAOIdent>BITSU</ICAOIdent>
+                <ICAOAirport>EDSB</ICAOAirport>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDSB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 46' 45.67",E8° 4' 49.82",+000405.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDSB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
