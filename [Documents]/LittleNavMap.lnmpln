@@ -3,8 +3,8 @@
   <Flightplan>
     <Header>
       <FlightplanType>VFR</FlightplanType>
-      <CruisingAlt>18000</CruisingAlt>
-      <CreationDate>2023-05-14T17:17:29+03:00</CreationDate>
+      <CruisingAlt>13000</CruisingAlt>
+      <CreationDate>2023-05-15T16:38:01+03:00</CreationDate>
       <FileVersion>1.1</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -13,22 +13,16 @@
     <SimData>MSFS</SimData>
     <NavData Cycle="1801">NAVIGRAPH</NavData>
     <AircraftPerformance>
-      <FilePath>Douglas DC-3 Bare Metal Emerald.lnmperf</FilePath>
-      <Type>DC3C</Type>
-      <Name>Douglas DC-3 Bare Metal Emerald</Name>
+      <FilePath>King Air 350i Analog.lnmperf</FilePath>
+      <Type>B350</Type>
+      <Name>Beechcraft King Air 350i Analog</Name>
     </AircraftPerformance>
-    <Departure>
-      <Pos Lon="10.900375" Lat="45.403851" Alt="229.00"/>
-      <Start>22</Start>
-      <Type>Runway</Type>
-      <Heading>225.556</Heading>
-    </Departure>
     <Waypoints>
       <Waypoint>
-        <Name>Villafranca</Name>
-        <Ident>LIPX</Ident>
+        <Name>Karlsruhe/Baden-Baden</Name>
+        <Ident>EDSB</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="10.887909" Lat="45.396370" Alt="229.00"/>
+        <Pos Lon="8.080505" Lat="48.779354" Alt="405.00"/>
       </Waypoint>
       <Waypoint>
         <Name>Menorca</Name>
