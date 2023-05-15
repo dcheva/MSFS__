@@ -4,7 +4,7 @@
     <Header>
       <FlightplanType>VFR</FlightplanType>
       <CruisingAlt>13000</CruisingAlt>
-      <CreationDate>2023-05-15T16:38:01+03:00</CreationDate>
+      <CreationDate>2023-05-15T18:05:50+03:00</CreationDate>
       <FileVersion>1.1</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -17,6 +17,12 @@
       <Type>B350</Type>
       <Name>Beechcraft King Air 350i Analog</Name>
     </AircraftPerformance>
+    <Departure>
+      <Pos Lon="8.071823" Lat="48.770100" Alt="405.00"/>
+      <Start>03</Start>
+      <Type>Runway</Type>
+      <Heading>31.7243</Heading>
+    </Departure>
     <Waypoints>
       <Waypoint>
         <Name>Karlsruhe/Baden-Baden</Name>
