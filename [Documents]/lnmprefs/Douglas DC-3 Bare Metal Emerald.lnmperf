@@ -2,7 +2,7 @@
 <LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
   <AircraftPerf>
     <Header>
-      <CreationDate>2023-05-14T17:29:42+03:00</CreationDate>
+      <CreationDate>2023-05-16T08:17:55+03:00</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -16,6 +16,8 @@
 ui_autonomy=6                ; @200 kts | 7                  | 9
 ui_fuel_burn_rate=150      ; @200 kts | 100                | 80
 
+@FL3
+(all65%) 80GPH 145kts
 @FL12
 (all75%) 90GPH 165kts
 1250nm 8hrs 
