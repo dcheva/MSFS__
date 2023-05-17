@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EDLP to EDGS</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>4000</CruisingAlt>
+        <DepartureID>EDLP</DepartureID>
+        <DepartureLLA>N51° 36' 44.15",E8° 37' 16.98",+000686.00</DepartureLLA>
+        <DestinationID>EDGS</DestinationID>
+        <DestinationLLA>N50° 42' 27.56",E8° 4' 58.72",+001959.00</DestinationLLA>
+        <Descr>EDLP, EDGS</Descr>
+        <DeparturePosition>PARKING 1A</DeparturePosition>
+        <DepartureName>Paderborn/Lippstadt</DepartureName>
+        <DestinationName>Siegerland</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDLP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N51° 36' 50.72",E8° 36' 58.74",+000686.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDLP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SIGEN">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N50° 50' 46.00",E8° 16' 46.00",+004000.00</WorldPosition>
+            <ArrivalFP>SIGE5A</ArrivalFP>
+            <RunwayNumberFP>31</RunwayNumberFP>
+            <ICAO>
+                <ICAORegion>ED</ICAORegion>
+                <ICAOIdent>SIGEN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SIL">
+            <ATCWaypointType>NDB</ATCWaypointType>
+            <WorldPosition>N50° 40' 48.12",E8° 8' 18.60",+002620.71</WorldPosition>
+            <ArrivalFP>SIGE5A</ArrivalFP>
+            <RunwayNumberFP>31</RunwayNumberFP>
+            <ICAO>
+                <ICAORegion>ED</ICAORegion>
+                <ICAOIdent>SIL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDGS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 42' 27.56",E8° 4' 58.72",+001959.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDGS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

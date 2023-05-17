@@ -3,8 +3,8 @@
   <Flightplan>
     <Header>
       <FlightplanType>VFR</FlightplanType>
-      <CruisingAlt>13000</CruisingAlt>
-      <CreationDate>2023-05-15T18:05:50+03:00</CreationDate>
+      <CruisingAlt>4000</CruisingAlt>
+      <CreationDate>2023-05-17T00:46:11+03:00</CreationDate>
       <FileVersion>1.1</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -13,28 +13,41 @@
     <SimData>MSFS</SimData>
     <NavData Cycle="1801">NAVIGRAPH</NavData>
     <AircraftPerformance>
-      <FilePath>King Air 350i Analog.lnmperf</FilePath>
-      <Type>B350</Type>
-      <Name>Beechcraft King Air 350i Analog</Name>
+      <FilePath>Grumman Goose G21A Analog.lnmperf</FilePath>
+      <Type>G21</Type>
+      <Name>Grumman Goose G21A</Name>
     </AircraftPerformance>
     <Departure>
-      <Pos Lon="8.071823" Lat="48.770100" Alt="405.00"/>
-      <Start>03</Start>
-      <Type>Runway</Type>
-      <Heading>31.7243</Heading>
+      <Pos Lon="8.621384" Lat="51.612263" Alt="686.00"/>
+      <Start>PARKING 1A</Start>
+      <Type>Parking</Type>
+      <Heading>150.814</Heading>
     </Departure>
+    <Procedures>
+      <STAR>
+        <Name>SIGE5A</Name>
+        <Runway>31</Runway>
+      </STAR>
+    </Procedures>
     <Waypoints>
       <Waypoint>
-        <Name>Karlsruhe/Baden-Baden</Name>
-        <Ident>EDSB</Ident>
+        <Name>Paderborn/Lippstadt</Name>
+        <Ident>EDLP</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="8.080505" Lat="48.779354" Alt="405.00"/>
+        <Pos Lon="8.616318" Lat="51.614090" Alt="686.00"/>
       </Waypoint>
       <Waypoint>
-        <Name>Menorca</Name>
-        <Ident>LEMH</Ident>
+        <Name>Paderborn/Lippstadt</Name>
+        <Ident>PAD</Ident>
+        <Region>ED</Region>
+        <Type>VOR</Type>
+        <Pos Lon="8.618652" Lat="51.610176" Alt="768.47"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Siegerland</Name>
+        <Ident>EDGS</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="4.218613" Lat="39.862503" Alt="288.00"/>
+        <Pos Lon="8.082977" Lat="50.707657" Alt="1959.00"/>
       </Waypoint>
     </Waypoints>
   </Flightplan>
