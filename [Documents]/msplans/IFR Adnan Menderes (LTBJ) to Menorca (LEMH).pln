@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LTBJ to LEMH</Title>
+        <FPType>IFR</FPType>
+        <RouteType>HighAlt</RouteType>
+        <CruisingAlt>33000</CruisingAlt>
+        <DepartureID>LTBJ</DepartureID>
+        <DepartureLLA>N38° 16' 42.49",E27° 9' 40.08",+000410.00</DepartureLLA>
+        <DestinationID>LEMH</DestinationID>
+        <DestinationLLA>N39° 51' 45.01",E4° 13' 7.01",+000288.00</DestinationLLA>
+        <Descr>LTBJ, LEMH</Descr>
+        <DeparturePosition>34R</DeparturePosition>
+        <DepartureName>Adnan Menderes</DepartureName>
+        <DestinationName>Menorca</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LTBJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 17' 21.00",E27° 9' 18.00",+000410.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LTBJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW34R">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 16' 41.51",E27° 9' 40.46",+000410.00</WorldPosition>
+            <DepartureFP>SITR1T</DepartureFP>
+            <RunwayNumberFP>34</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="MEN4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 21' 33.63",E27° 8' 9.63",+004905.97</WorldPosition>
+            <DepartureFP>SITR1T</DepartureFP>
+            <RunwayNumberFP>34</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="IMR">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N38° 19' 2.80",E27° 0' 26.00",+010792.72</WorldPosition>
+            <DepartureFP>SITR1T</DepartureFP>
+            <RunwayNumberFP>34</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAORegion>LT</ICAORegion>
+                <ICAOIdent>IMR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SITRU">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N38° 6' 26.00",E26° 17' 58.00",+033000.00</WorldPosition>
+            <DepartureFP>SITR1T</DepartureFP>
+            <RunwayNumberFP>34</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAORegion>LT</ICAORegion>
+                <ICAOIdent>SITRU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KRO">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N37° 59' 38.91",E24° 29' 41.67",+033000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LG</ICAORegion>
+                <ICAOIdent>KRO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ATV">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N37° 53' 19.25",E23° 48' 16.19",+033000.00</WorldPosition>
+            <ATCAirway>UN604</ATCAirway>
+            <ICAO>
+                <ICAORegion>LG</ICAORegion>
+                <ICAOIdent>ATV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KOR">
+            <ATCWaypointType>NDB</ATCWaypointType>
+            <WorldPosition>N37° 55' 49.48",E22° 56' 9.24",+033000.00</WorldPosition>
+            <ATCAirway>UN604</ATCAirway>
+            <ICAO>
+                <ICAORegion>LG</ICAORegion>
+                <ICAOIdent>KOR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RILIN">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N37° 57' 54.00",E22° 40' 0.00",+033000.00</WorldPosition>
+            <ATCAirway>UN604</ATCAirway>
+            <ICAO>
+                <ICAORegion>LG</ICAORegion>
+                <ICAOIdent>RILIN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ARA">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N38° 9' 32.35",E21° 25' 45.85",+033000.00</WorldPosition>
+            <ATCAirway>UN604</ATCAirway>
+            <ICAO>
+                <ICAORegion>LG</ICAORegion>
+                <ICAOIdent>ARA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ENESI">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N38° 18' 50.00",E20° 15' 13.00",+033000.00</WorldPosition>
+            <ATCAirway>UN604</ATCAirway>
+            <ICAO>
+                <ICAORegion>LG</ICAORegion>
+                <ICAOIdent>ENESI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RUTOM">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N38° 31' 6.00",E19° 0' 0.00",+033000.00</WorldPosition>
+            <ATCAirway>UN604</ATCAirway>
+            <ICAO>
+                <ICAORegion>LG</ICAORegion>
+                <ICAOIdent>RUTOM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TESPA">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N38° 34' 33.00",E18° 47' 1.00",+033000.00</WorldPosition>
+            <ATCAirway>M601</ATCAirway>
+            <ICAO>
+                <ICAORegion>LI</ICAORegion>
+                <ICAOIdent>TESPA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TOMGI">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N38° 43' 5.00",E18° 13' 17.00",+033000.00</WorldPosition>
+            <ATCAirway>M601</ATCAirway>
+            <ICAO>
+                <ICAORegion>LI</ICAORegion>
+                <ICAOIdent>TOMGI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ADREN">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N38° 50' 18.00",E17° 44' 9.00",+033000.00</WorldPosition>
+            <ATCAirway>M601</ATCAirway>
+            <ICAO>
+                <ICAORegion>LI</ICAORegion>
+                <ICAOIdent>ADREN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CRN">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N38° 59' 46.01",E17° 4' 59.00",+033000.00</WorldPosition>
+            <ATCAirway>M601</ATCAirway>
+            <ICAO>
+                <ICAORegion>LI</ICAORegion>
+                <ICAOIdent>CRN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LAMEB">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N39° 4' 30.00",E16° 25' 9.00",+033000.00</WorldPosition>
+            <ATCAirway>M601</ATCAirway>
+            <ICAO>
+                <ICAORegion>LI</ICAORegion>
+                <ICAOIdent>LAMEB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SOMAS">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N39° 7' 35.00",E15° 58' 8.00",+033000.00</WorldPosition>
+            <ATCAirway>M601</ATCAirway>
+            <ICAO>
+                <ICAORegion>LI</ICAORegion>
+                <ICAOIdent>SOMAS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NERAR">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N39° 18' 14.99",E14° 16' 1.00",+033000.00</WorldPosition>
+            <ATCAirway>M601</ATCAirway>
+            <ICAO>
+                <ICAORegion>LI</ICAORegion>
+                <ICAOIdent>NERAR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="AMANO">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N39° 25' 17.99",E13° 47' 48.00",+033000.00</WorldPosition>
+            <ATCAirway>M601</ATCAirway>
+            <ICAO>
+                <ICAORegion>LI</ICAORegion>
+                <ICAOIdent>AMANO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="DORAS">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N39° 35' 56.00",E13° 3' 36.00",+033000.00</WorldPosition>
+            <ATCAirway>M601</ATCAirway>
+            <ICAO>
+                <ICAORegion>LI</ICAORegion>
+                <ICAOIdent>DORAS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RONAB">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N39° 52' 10.99",E11° 53' 28.00",+033000.00</WorldPosition>
+            <ATCAirway>M601</ATCAirway>
+            <ICAO>
+                <ICAORegion>LI</ICAORegion>
+                <ICAOIdent>RONAB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VELEX">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N39° 57' 59.00",E11° 27' 32.00",+033000.00</WorldPosition>
+            <ATCAirway>M601</ATCAirway>
+            <ICAO>
+                <ICAORegion>LI</ICAORegion>
+                <ICAOIdent>VELEX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="QUENN">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N40° 9' 54.00",E10° 32' 37.00",+033000.00</WorldPosition>
+            <ATCAirway>M601</ATCAirway>
+            <ICAO>
+                <ICAORegion>LI</ICAORegion>
+                <ICAOIdent>QUENN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LULIX">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N40° 15' 21.00",E9° 53' 7.00",+033000.00</WorldPosition>
+            <ATCAirway>Q123</ATCAirway>
+            <ICAO>
+                <ICAORegion>LI</ICAORegion>
+                <ICAOIdent>LULIX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VEKET">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N40° 19' 39.00",E9° 20' 44.00",+033000.00</WorldPosition>
+            <ATCAirway>Q123</ATCAirway>
+            <ICAO>
+                <ICAORegion>LI</ICAORegion>
+                <ICAOIdent>VEKET</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="USEPI">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N40° 26' 47.00",E8° 23' 56.00",+033000.00</WorldPosition>
+            <ATCAirway>Q123</ATCAirway>
+            <ICAO>
+                <ICAORegion>LI</ICAORegion>
+                <ICAOIdent>USEPI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="GOKMI">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N40° 26' 16.00",E8° 14' 22.00",+033000.00</WorldPosition>
+            <ATCAirway>Z924</ATCAirway>
+            <ICAO>
+                <ICAORegion>LI</ICAORegion>
+                <ICAOIdent>GOKMI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SUPUX">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N40° 25' 28.99",E8° 0' 0.00",+033000.00</WorldPosition>
+            <ATCAirway>Z924</ATCAirway>
+            <ICAO>
+                <ICAORegion>LF</ICAORegion>
+                <ICAOIdent>SUPUX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KUPIM">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N40° 20' 4.01",E7° 17' 52.00",+033000.00</WorldPosition>
+            <ATCAirway>UZ924</ATCAirway>
+            <ICAO>
+                <ICAORegion>LF</ICAORegion>
+                <ICAOIdent>KUPIM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ODAKA">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N40° 14' 7.00",E6° 33' 43.00",+033000.00</WorldPosition>
+            <ATCAirway>UZ924</ATCAirway>
+            <ICAO>
+                <ICAORegion>LF</ICAORegion>
+                <ICAOIdent>ODAKA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SUXER">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N40° 8' 9.00",E5° 51' 32.00",+033000.00</WorldPosition>
+            <ATCAirway>UZ924</ATCAirway>
+            <ICAO>
+                <ICAORegion>LF</ICAORegion>
+                <ICAOIdent>SUXER</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RIPAL">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N39° 58' 40.99",E4° 46' 17.00",+021117.80</WorldPosition>
+            <ATCAirway>UZ924</ATCAirway>
+            <ICAO>
+                <ICAORegion>LF</ICAORegion>
+                <ICAOIdent>RIPAL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MORSS">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N39° 57' 24.10",E4° 40' 0.00",+019000.00</WorldPosition>
+            <ArrivalFP>MORS2B</ArrivalFP>
+            <RunwayNumberFP>1</RunwayNumberFP>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>MORSS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="D074O">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N39° 55' 43.14",E4° 31' 47.87",+016291.73</WorldPosition>
+            <ArrivalFP>MORS2B</ArrivalFP>
+            <RunwayNumberFP>1</RunwayNumberFP>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>D074O</ICAOIdent>
+                <ICAOAirport>LEMH</ICAOAirport>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N39° 55' 15.04",E4° 29' 18.57",+015472.79</WorldPosition>
+            <ArrivalFP>MORS2B</ArrivalFP>
+            <RunwayNumberFP>1</RunwayNumberFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="ORFEO">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N39° 49' 45.80",E4° 29' 38.10",+013161.16</WorldPosition>
+            <ArrivalFP>MORS2B</ArrivalFP>
+            <RunwayNumberFP>1</RunwayNumberFP>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>ORFEO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="BALIO">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N39° 38' 54.20",E4° 10' 55.70",+004876.12</WorldPosition>
+            <ArrivalFP>MORS2B</ArrivalFP>
+            <RunwayNumberFP>1</RunwayNumberFP>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>BALIO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LEMH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 51' 45.01",E4° 13' 7.01",+000288.00</WorldPosition>
+            <SuffixFP>Z</SuffixFP>
+            <ApproachTypeFP>ILS</ApproachTypeFP>
+            <RunwayNumberFP>1</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LEMH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

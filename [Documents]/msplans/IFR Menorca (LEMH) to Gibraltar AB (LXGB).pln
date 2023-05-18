@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LEMH to LXGB</Title>
+        <FPType>IFR</FPType>
+        <RouteType>HighAlt</RouteType>
+        <CruisingAlt>25000</CruisingAlt>
+        <DepartureID>LEMH</DepartureID>
+        <DepartureLLA>N39° 51' 5.41",E4° 12' 58.93",+000288.00</DepartureLLA>
+        <DestinationID>LXGB</DestinationID>
+        <DestinationLLA>N36° 9' 3.81",W5° 20' 59.91",+000011.00</DestinationLLA>
+        <Descr>LEMH, LXGB</Descr>
+        <DeparturePosition>1</DeparturePosition>
+        <DepartureName>Menorca</DepartureName>
+        <DestinationName>Gibraltar AB</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LEMH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 51' 45.01",E4° 13' 7.01",+000288.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LEMH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHN">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N39° 51' 48.99",E4° 12' 58.70",+000428.43</WorldPosition>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>MHN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CDP">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N39° 41' 51.69",E3° 26' 3.70",+025000.00</WorldPosition>
+            <ATCAirway>UM603</ATCAirway>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>CDP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LULAK">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N39° 31' 24.10",E2° 49' 18.10",+025000.00</WorldPosition>
+            <ATCAirway>UM603</ATCAirway>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>LULAK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDULI">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N39° 24' 21.90",E2° 25' 2.70",+025000.00</WorldPosition>
+            <ATCAirway>UM603</ATCAirway>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>EDULI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OKITI">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N39° 6' 58.89",E1° 26' 39.50",+025000.00</WorldPosition>
+            <ATCAirway>UM603</ATCAirway>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>OKITI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="IBEBA">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N38° 57' 47.11",E0° 56' 36.10",+025000.00</WorldPosition>
+            <ATCAirway>UM603</ATCAirway>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>IBEBA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="BAVER">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N38° 52' 47.40",E0° 40' 30.00",+025000.00</WorldPosition>
+            <ATCAirway>UM603</ATCAirway>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>BAVER</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="GERVU">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N38° 49' 11.50",E0° 29' 0.00",+025000.00</WorldPosition>
+            <ATCAirway>UM603</ATCAirway>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>GERVU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ALT">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N38° 16' 5.79",W0° 34' 12.40",+025000.00</WorldPosition>
+            <ATCAirway>UM603</ATCAirway>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>ALT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RESTU">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N37° 54' 27.20",W1° 33' 27.30",+025000.00</WorldPosition>
+            <ATCAirway>UN851</ATCAirway>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>RESTU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TOSGA">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N37° 37' 32.40",W2° 18' 26.50",+025000.00</WorldPosition>
+            <ATCAirway>UN851</ATCAirway>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>TOSGA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ROLAS">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N37° 24' 56.30",W2° 51' 15.70",+025000.00</WorldPosition>
+            <ATCAirway>UN851</ATCAirway>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>ROLAS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UNTOS">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N37° 15' 2.01",W3° 16' 39.70",+025000.00</WorldPosition>
+            <ATCAirway>UN851</ATCAirway>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>UNTOS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RIXUR">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N37° 6' 31.90",W3° 38' 11.40",+025000.00</WorldPosition>
+            <ATCAirway>UN851</ATCAirway>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>RIXUR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MGA">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N36° 48' 51.50",W4° 22' 10.50",+025000.00</WorldPosition>
+            <ATCAirway>UN851</ATCAirway>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>MGA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PIMOS">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N36° 9' 1.30",W4° 53' 36.50",+009116.61</WorldPosition>
+            <ATCAirway>UN869</ATCAirway>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>PIMOS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LXGB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 9' 3.81",W5° 20' 59.91",+000011.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LXGB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
