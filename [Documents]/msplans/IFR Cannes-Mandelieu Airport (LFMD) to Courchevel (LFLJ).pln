@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LFMD to LFLJ</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>11000</CruisingAlt>
+        <DepartureID>LFMD</DepartureID>
+        <DepartureLLA>N43° 32' 48.37",E6° 57' 3.89",+000009.00</DepartureLLA>
+        <DestinationID>LFLJ</DestinationID>
+        <DestinationLLA>N45° 23' 44.28",E6° 37' 58.62",+006477.00</DestinationLLA>
+        <Descr>LFMD, LFLJ</Descr>
+        <DepartureName>Cannes-Mandelieu Airport</DepartureName>
+        <DestinationName>Courchevel</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LFMD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 32' 48.37",E6° 57' 3.89",+000009.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFMD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFLJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 23' 44.28",E6° 37' 58.62",+006477.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFLJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

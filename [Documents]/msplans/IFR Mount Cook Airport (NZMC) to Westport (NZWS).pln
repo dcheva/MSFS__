@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>NZMC to NZWS</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>10000</CruisingAlt>
+        <DepartureID>NZMC</DepartureID>
+        <DepartureLLA>S43° 45' 54.00",E170° 8' 0.00",+002153.00</DepartureLLA>
+        <DestinationID>NZWS</DestinationID>
+        <DestinationLLA>S41° 44' 16.99",E171° 34' 51.03",+000013.00</DestinationLLA>
+        <Descr>NZMC, NZWS</Descr>
+        <DepartureName>Mount Cook Airport</DepartureName>
+        <DestinationName>Westport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="NZMC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S43° 45' 54.00",E170° 8' 0.00",+002153.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZMC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZWS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S41° 44' 16.99",E171° 34' 51.03",+000013.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZWS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
