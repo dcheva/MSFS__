@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EDGS to EDFM</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>4000</CruisingAlt>
+        <DepartureID>EDGS</DepartureID>
+        <DepartureLLA>N50° 42' 27.56",E8° 4' 58.72",+001959.00</DepartureLLA>
+        <DestinationID>EDFM</DestinationID>
+        <DestinationLLA>N49° 28' 21.74",E8° 30' 51.36",+000308.00</DestinationLLA>
+        <Descr>EDGS, EDFM</Descr>
+        <DepartureName>Siegerland</DepartureName>
+        <DestinationName>Mannheim City</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDGS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 42' 27.56",E8° 4' 58.72",+001959.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDGS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="DODEN">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N50° 36' 8.12",E8° 5' 35.70",+004000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>ED</ICAORegion>
+                <ICAOIdent>DODEN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ASKIK">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N50° 3' 9.99",E8° 32' 1.00",+004000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>ED</ICAORegion>
+                <ICAOIdent>ASKIK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ODAVU">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N49° 43' 32.00",E8° 32' 2.00",+004000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>ED</ICAORegion>
+                <ICAOIdent>ODAVU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ML27">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N49° 28' 17.36",E8° 32' 29.74",+000564.52</WorldPosition>
+            <ICAO>
+                <ICAORegion>ED</ICAORegion>
+                <ICAOIdent>ML27</ICAOIdent>
+                <ICAOAirport>EDFM</ICAOAirport>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDFM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 28' 21.74",E8° 30' 51.36",+000308.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDFM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
