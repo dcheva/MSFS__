@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EDFR to EDFE</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>3000</CruisingAlt>
+        <DepartureID>EDFR</DepartureID>
+        <DepartureLLA>N49° 23' 26.40",E10° 13' 7.77",+001309.00</DepartureLLA>
+        <DestinationID>EDFE</DestinationID>
+        <DestinationLLA>N49° 57' 39.00",E8° 38' 29.44",+000385.00</DestinationLLA>
+        <Descr>EDFR, EDFE</Descr>
+        <DepartureName>Rothenburg O.D. Tauber</DepartureName>
+        <DestinationName>Egelsbach</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDFR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 23' 26.40",E10° 13' 7.77",+001309.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDFR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDFE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 57' 39.00",E8° 38' 29.44",+000385.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDFE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

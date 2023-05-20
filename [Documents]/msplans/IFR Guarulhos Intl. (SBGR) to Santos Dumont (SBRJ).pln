@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SBGR to SBRJ</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>6500</CruisingAlt>
+        <DepartureID>SBGR</DepartureID>
+        <DepartureLLA>S23° 26' 8.00",W46° 28' 22.99",+002461.00</DepartureLLA>
+        <DestinationID>SBRJ</DestinationID>
+        <DestinationLLA>S22° 54' 36.01",W43° 9' 44.97",+000010.00</DestinationLLA>
+        <Descr>SBGR, SBRJ</Descr>
+        <DepartureName>Guarulhos Intl.</DepartureName>
+        <DestinationName>Santos Dumont</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SBGR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S23° 26' 8.00",W46° 28' 22.99",+002461.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SBGR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SBRJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S22° 54' 36.01",W43° 9' 44.97",+000010.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SBRJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
