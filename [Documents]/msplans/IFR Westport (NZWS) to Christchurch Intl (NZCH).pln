@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>NZWS to NZCH</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>7000</CruisingAlt>
+        <DepartureID>NZWS</DepartureID>
+        <DepartureLLA>S41° 44' 24.24",E171° 34' 22.57",+000013.00</DepartureLLA>
+        <DestinationID>NZCH</DestinationID>
+        <DestinationLLA>S43° 29' 21.99",E172° 32' 4.04",+000123.00</DestinationLLA>
+        <Descr>NZWS, NZCH</Descr>
+        <DeparturePosition>4</DeparturePosition>
+        <DepartureName>Westport</DepartureName>
+        <DestinationName>Christchurch Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="NZWS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S41° 44' 16.82",E171° 34' 37.73",+000013.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZWS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="AREDU">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>S41° 44' 45.64",E171° 49' 0.27",+006790.74</WorldPosition>
+            <ICAO>
+                <ICAORegion>NZ</ICAORegion>
+                <ICAOIdent>AREDU</ICAOIdent>
+                <ICAOAirport>NZWS</ICAOAirport>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CF20">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>S43° 23' 21.31",E172° 38' 49.65",+002575.92</WorldPosition>
+            <ICAO>
+                <ICAORegion>NZ</ICAORegion>
+                <ICAOIdent>CF20</ICAOIdent>
+                <ICAOAirport>NZCH</ICAOAirport>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZCH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S43° 29' 21.99",E172° 32' 4.04",+000123.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZCH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

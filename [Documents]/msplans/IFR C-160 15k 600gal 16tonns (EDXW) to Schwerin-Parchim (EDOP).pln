@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EDXW to EDOP</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>15000</CruisingAlt>
+        <DepartureID>EDXW</DepartureID>
+        <DepartureLLA>N54° 55' 8.85",E8° 19' 59.43",+000036.00</DepartureLLA>
+        <DestinationID>EDOP</DestinationID>
+        <DestinationLLA>N53° 25' 37.19",E11° 47' 0.36",+000166.00</DestinationLLA>
+        <Descr>EDXW, EDOP</Descr>
+        <DeparturePosition>14</DeparturePosition>
+        <DepartureName>Westerland/Sylt</DepartureName>
+        <DestinationName>Schwerin-Parchim</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDXW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N54° 54' 41.89",E8° 20' 32.61",+000036.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDXW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW14">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N54° 55' 9.65",E8° 19' 58.38",+000051.00</WorldPosition>
+            <DepartureFP>OLDI1S</DepartureFP>
+            <RunwayNumberFP>14</RunwayNumberFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="User_WP">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N54° 53' 29.67",E8° 21' 53.85",+000616.74</WorldPosition>
+            <DepartureFP>OLDI1S</DepartureFP>
+            <RunwayNumberFP>14</RunwayNumberFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="SLT">
+            <ATCWaypointType>NDB</ATCWaypointType>
+            <WorldPosition>N54° 51' 24.82",E8° 24' 35.94",+001351.34</WorldPosition>
+            <DepartureFP>OLDI1S</DepartureFP>
+            <RunwayNumberFP>14</RunwayNumberFP>
+            <ICAO>
+                <ICAORegion>ED</ICAORegion>
+                <ICAOIdent>SLT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OLDIP">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N54° 37' 2.85",E8° 42' 13.77",+006331.20</WorldPosition>
+            <DepartureFP>OLDI1S</DepartureFP>
+            <RunwayNumberFP>14</RunwayNumberFP>
+            <ICAO>
+                <ICAORegion>ED</ICAORegion>
+                <ICAOIdent>OLDIP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="BADOS">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N54° 22' 12.00",E9° 8' 7.00",+012307.79</WorldPosition>
+            <ATCAirway>Z441</ATCAirway>
+            <ICAO>
+                <ICAORegion>ED</ICAORegion>
+                <ICAOIdent>BADOS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ABGEB">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N54° 18' 34.00",E9° 56' 48.00",+015000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>ED</ICAORegion>
+                <ICAOIdent>ABGEB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WISMA">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N53° 49' 31.80",E11° 29' 7.80",+010161.55</WorldPosition>
+            <ICAO>
+                <ICAORegion>ED</ICAORegion>
+                <ICAOIdent>WISMA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDOP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N53° 25' 37.19",E11° 47' 0.36",+000166.00</WorldPosition>
+            <ApproachTypeFP>ILS</ApproachTypeFP>
+            <RunwayNumberFP>24</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>EDOP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
