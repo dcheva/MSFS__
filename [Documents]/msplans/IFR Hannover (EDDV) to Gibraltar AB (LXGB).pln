@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EDDV to LXGB</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>33000</CruisingAlt>
+        <DepartureID>EDDV</DepartureID>
+        <DepartureLLA>N52° 27' 36.77",E9° 41' 0.66",+000173.00</DepartureLLA>
+        <DestinationID>LXGB</DestinationID>
+        <DestinationLLA>N36° 9' 3.81",W5° 20' 59.91",+000011.00</DestinationLLA>
+        <Descr>EDDV, LXGB</Descr>
+        <DepartureName>Hannover</DepartureName>
+        <DestinationName>Gibraltar AB</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDDV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 27' 36.77",E9° 41' 0.66",+000173.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDDV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LXGB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 9' 3.81",W5° 20' 59.91",+000011.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LXGB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
