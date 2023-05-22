@@ -3,8 +3,8 @@
   <Flightplan>
     <Header>
       <FlightplanType>IFR</FlightplanType>
-      <CruisingAlt>7000</CruisingAlt>
-      <CreationDate>2023-05-20T13:17:55+03:00</CreationDate>
+      <CruisingAlt>33000</CruisingAlt>
+      <CreationDate>2023-05-22T01:07:13+03:00</CreationDate>
       <FileVersion>1.1</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -13,34 +13,35 @@
     <SimData>MSFS</SimData>
     <NavData Cycle="1801">NAVIGRAPH</NavData>
     <AircraftPerformance>
-      <FilePath>C-160.lnmperf</FilePath>
-      <Type>TBM 930</Type>
-      <Name>TBM 930 Purple, Pink &amp; Cream</Name>
+      <FilePath>Cessna Longitude Asobo 1.1.lnmperf</FilePath>
+      <Type>C700</Type>
+      <Name>Cessna Longitude Asobo 1.1</Name>
     </AircraftPerformance>
     <Waypoints>
       <Waypoint>
-        <Name>Westport</Name>
-        <Ident>NZWS</Ident>
+        <Name>Gibraltar AB</Name>
+        <Ident>LXGB</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="171.577148" Lat="-41.738007" Alt="13.00"/>
+        <Pos Lon="-5.349976" Lat="36.151058" Alt="11.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>AREDU</Ident>
-        <Region>NZ</Region>
+        <Name>Martin</Name>
+        <Ident>MAR</Ident>
+        <Region>LE</Region>
+        <Type>VOR</Type>
+        <Pos Lon="-4.939889" Lat="37.055305" Alt="33000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>PAS30</Ident>
+        <Region>LF</Region>
         <Type>WAYPOINT</Type>
-        <Pos Lon="171.816742" Lat="-41.746010" Alt="3013.73"/>
+        <Pos Lon="6.428056" Lat="45.762222" Alt="27897.86"/>
       </Waypoint>
       <Waypoint>
-        <Ident>CF20</Ident>
-        <Region>NZ</Region>
-        <Type>WAYPOINT</Type>
-        <Pos Lon="172.647125" Lat="-43.389252" Alt="2061.15"/>
-      </Waypoint>
-      <Waypoint>
-        <Name>Christchurch Intl</Name>
-        <Ident>NZCH</Ident>
+        <Name>Sion</Name>
+        <Ident>LSGS</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="172.534454" Lat="-43.489441" Alt="123.00"/>
+        <Pos Lon="7.326950" Lat="46.219166" Alt="1578.00"/>
       </Waypoint>
     </Waypoints>
   </Flightplan>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LXGB to LSGS</Title>
+        <FPType>IFR</FPType>
+        <RouteType>HighAlt</RouteType>
+        <CruisingAlt>33000</CruisingAlt>
+        <DepartureID>LXGB</DepartureID>
+        <DepartureLLA>N36° 9' 3.81",W5° 20' 59.91",+000011.00</DepartureLLA>
+        <DestinationID>LSGS</DestinationID>
+        <DestinationLLA>N46° 13' 9.00",E7° 19' 37.02",+001578.00</DestinationLLA>
+        <Descr>LXGB, LSGS</Descr>
+        <DepartureName>Gibraltar AB</DepartureName>
+        <DestinationName>Sion</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LXGB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 9' 3.81",W5° 20' 59.91",+000011.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LXGB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MAR">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N37° 3' 19.10",W4° 56' 23.60",+033000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LE</ICAORegion>
+                <ICAOIdent>MAR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VALOR">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N46° 3' 35.00",E6° 58' 26.00",+032225.54</WorldPosition>
+            <ArrivalFP>VALO1W</ArrivalFP>
+            <RunwayNumberFP>7</RunwayNumberFP>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>VALOR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="GRANA">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N46° 17' 0.51",E7° 31' 56.60",+017000.00</WorldPosition>
+            <ArrivalFP>VALO1W</ArrivalFP>
+            <RunwayNumberFP>7</RunwayNumberFP>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>GRANA</ICAOIdent>
+                <ICAOAirport>LSGS</ICAOAirport>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSGS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 13' 9.00",E7° 19' 37.02",+001578.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSGS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
