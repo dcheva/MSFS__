@@ -3,8 +3,8 @@
   <Flightplan>
     <Header>
       <FlightplanType>IFR</FlightplanType>
-      <CruisingAlt>33000</CruisingAlt>
-      <CreationDate>2023-05-22T01:07:13+03:00</CreationDate>
+      <CruisingAlt>5000</CruisingAlt>
+      <CreationDate>2023-05-22T21:30:50+03:00</CreationDate>
       <FileVersion>1.1</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -13,35 +13,22 @@
     <SimData>MSFS</SimData>
     <NavData Cycle="1801">NAVIGRAPH</NavData>
     <AircraftPerformance>
-      <FilePath>Cessna Longitude Asobo 1.1.lnmperf</FilePath>
-      <Type>C700</Type>
-      <Name>Cessna Longitude Asobo 1.1</Name>
+      <FilePath>Grumman Goose G21A Analog.lnmperf</FilePath>
+      <Type>G21</Type>
+      <Name>Grumman Goose G21A</Name>
     </AircraftPerformance>
     <Waypoints>
       <Waypoint>
-        <Name>Gibraltar AB</Name>
-        <Ident>LXGB</Ident>
+        <Name>Malmsheim Airfield</Name>
+        <Ident>ED85</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="-5.349976" Lat="36.151058" Alt="11.00"/>
+        <Pos Lon="8.916733" Lat="48.784634" Alt="1480.00"/>
       </Waypoint>
       <Waypoint>
-        <Name>Martin</Name>
-        <Ident>MAR</Ident>
-        <Region>LE</Region>
-        <Type>VOR</Type>
-        <Pos Lon="-4.939889" Lat="37.055305" Alt="33000.00"/>
-      </Waypoint>
-      <Waypoint>
-        <Ident>PAS30</Ident>
-        <Region>LF</Region>
-        <Type>WAYPOINT</Type>
-        <Pos Lon="6.428056" Lat="45.762222" Alt="27897.86"/>
-      </Waypoint>
-      <Waypoint>
-        <Name>Sion</Name>
-        <Ident>LSGS</Ident>
+        <Name>Blaubeuren</Name>
+        <Ident>EDMC</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="7.326950" Lat="46.219166" Alt="1578.00"/>
+        <Pos Lon="9.798828" Lat="48.419834" Alt="2217.00"/>
       </Waypoint>
     </Waypoints>
   </Flightplan>

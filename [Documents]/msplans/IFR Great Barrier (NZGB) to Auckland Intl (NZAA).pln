@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>NZGB to NZAA</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>3000</CruisingAlt>
+        <DepartureID>NZGB</DepartureID>
+        <DepartureLLA>S36° 14' 28.99",E175° 28' 19.04",+000021.00</DepartureLLA>
+        <DestinationID>NZAA</DestinationID>
+        <DestinationLLA>S37° 0' 25.10",E174° 47' 27.33",+000023.00</DestinationLLA>
+        <Descr>NZGB, NZAA</Descr>
+        <DepartureName>Great Barrier</DepartureName>
+        <DestinationName>Auckland Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="NZGB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S36° 14' 28.99",E175° 28' 19.04",+000021.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZGB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="EMRAG">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>S36° 56' 31.25",E175° 2' 18.32",+003000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>NZ</ICAORegion>
+                <ICAOIdent>EMRAG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZAA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S37° 0' 25.10",E174° 47' 27.33",+000023.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZAA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

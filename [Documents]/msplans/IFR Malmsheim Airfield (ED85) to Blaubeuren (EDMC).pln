@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>ED85 to EDMC</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>5000</CruisingAlt>
+        <DepartureID>ED85</DepartureID>
+        <DepartureLLA>N48° 47' 4.68",E8° 55' 0.24",+001480.00</DepartureLLA>
+        <DestinationID>EDMC</DestinationID>
+        <DestinationLLA>N48° 25' 11.40",E9° 47' 55.78",+002217.00</DestinationLLA>
+        <Descr>ED85, EDMC</Descr>
+        <DepartureName>Malmsheim Airfield</DepartureName>
+        <DestinationName>Blaubeuren</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="ED85">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 47' 4.68",E8° 55' 0.24",+001480.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ED85</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDMC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 25' 11.40",E9° 47' 55.78",+002217.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDMC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
