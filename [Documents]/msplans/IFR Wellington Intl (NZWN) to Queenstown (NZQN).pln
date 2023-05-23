@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>NZWN to NZQN</Title>
+        <FPType>IFR</FPType>
+        <RouteType>HighAlt</RouteType>
+        <CruisingAlt>24000</CruisingAlt>
+        <DepartureID>NZWN</DepartureID>
+        <DepartureLLA>S41° 19' 38.01",E174° 48' 18.96",+000041.00</DepartureLLA>
+        <DestinationID>NZQN</DestinationID>
+        <DestinationLLA>S45° 1' 10.59",E168° 44' 40.88",+001164.00</DestinationLLA>
+        <Descr>NZWN, NZQN</Descr>
+        <DepartureName>Wellington Intl</DepartureName>
+        <DestinationName>Queenstown</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="NZWN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S41° 19' 38.01",E174° 48' 18.96",+000041.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZWN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RY">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>S44° 8' 6.36",E170° 16' 49.97",+024000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>NZ</ICAORegion>
+                <ICAOIdent>RY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="QN">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>S44° 59' 2.82",E168° 46' 57.55",+003026.74</WorldPosition>
+            <ICAO>
+                <ICAORegion>NZ</ICAORegion>
+                <ICAOIdent>QN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="QN731">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>S45° 0' 48.92",E168° 46' 30.86",+001961.64</WorldPosition>
+            <ICAO>
+                <ICAORegion>NZ</ICAORegion>
+                <ICAOIdent>QN731</ICAOIdent>
+                <ICAOAirport>NZQN</ICAOAirport>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZQN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S45° 1' 10.59",E168° 44' 40.88",+001164.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZQN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
