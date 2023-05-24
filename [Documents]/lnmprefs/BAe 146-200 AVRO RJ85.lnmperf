@@ -2,7 +2,7 @@
 <LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
   <AircraftPerf>
     <Header>
-      <CreationDate>2023-05-24T11:51:12+03:00</CreationDate>
+      <CreationDate>2023-05-24T15:35:14+03:00</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -12,7 +12,12 @@
       <Name>BAe 146-300 / AVRO RJ100</Name>
       <AircraftType>B462</AircraftType>
       <Simulator>MSFS</Simulator>
-      <Description>@70% 24k 400kts 700gph 1900nm 5h
+      <Description>Climb 1500lbs to FL250 hold 0.4mach
+@90% 20k 240kts[fix] 1100gph
+Cruise
+@70% 24k 400kts 700gph 1900nm 5h
+@70% 25k 425kts 770gph 1800nm 4h
+@60% 25k 260kts 350gph 2300nm 9h
 Descent
 @60% 20k -2000 330kts 180gph
 
@@ -29,20 +34,20 @@ Descent
       <TaxiFuelLbsGal>0.000</TaxiFuelLbsGal>
       <UsableFuelLbsGal>3840.000</UsableFuelLbsGal>
       <Alternate>
-        <FuelFlowLbsGalPerHour>500.000</FuelFlowLbsGalPerHour>
+        <FuelFlowLbsGalPerHour>600.000</FuelFlowLbsGalPerHour>
         <SpeedKtsTAS>200.000</SpeedKtsTAS>
       </Alternate>
       <Climb>
-        <FuelFlowLbsGalPerHour>1000.000</FuelFlowLbsGalPerHour>
-        <SpeedKtsTAS>220.000</SpeedKtsTAS>
-        <VertSpeedFtPerMin>2000.000</VertSpeedFtPerMin>
+        <FuelFlowLbsGalPerHour>1200.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>240.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>2400.000</VertSpeedFtPerMin>
       </Climb>
       <Cruise>
-        <FuelFlowLbsGalPerHour>700.000</FuelFlowLbsGalPerHour>
-        <SpeedKtsTAS>400.000</SpeedKtsTAS>
+        <FuelFlowLbsGalPerHour>360.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>250.000</SpeedKtsTAS>
       </Cruise>
       <Descent>
-        <FuelFlowLbsGalPerHour>180.000</FuelFlowLbsGalPerHour>
+        <FuelFlowLbsGalPerHour>200.000</FuelFlowLbsGalPerHour>
         <SpeedKtsTAS>330.000</SpeedKtsTAS>
         <VertSpeedFtPerMin>2000.000</VertSpeedFtPerMin>
       </Descent>
