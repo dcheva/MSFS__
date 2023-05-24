@@ -3,8 +3,8 @@
   <Flightplan>
     <Header>
       <FlightplanType>IFR</FlightplanType>
-      <CruisingAlt>5000</CruisingAlt>
-      <CreationDate>2023-05-22T21:30:50+03:00</CreationDate>
+      <CruisingAlt>27500</CruisingAlt>
+      <CreationDate>2023-05-24T02:18:38+03:00</CreationDate>
       <FileVersion>1.1</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -13,22 +13,22 @@
     <SimData>MSFS</SimData>
     <NavData Cycle="1801">NAVIGRAPH</NavData>
     <AircraftPerformance>
-      <FilePath>Grumman Goose G21A Analog.lnmperf</FilePath>
-      <Type>G21</Type>
-      <Name>Grumman Goose G21A</Name>
+      <FilePath>BAe 146-300 AVRO RJ100.lnmperf</FilePath>
+      <Type>B463</Type>
+      <Name>BAe 146-300 / AVRO RJ100</Name>
     </AircraftPerformance>
     <Waypoints>
       <Waypoint>
-        <Name>Malmsheim Airfield</Name>
-        <Ident>ED85</Ident>
+        <Name>Berlin Brandenburg Airport</Name>
+        <Ident>EDDB</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="8.916733" Lat="48.784634" Alt="1480.00"/>
+        <Pos Lon="13.500671" Lat="52.362247" Alt="150.00"/>
       </Waypoint>
       <Waypoint>
-        <Name>Blaubeuren</Name>
-        <Ident>EDMC</Ident>
+        <Name>Marseille/Provence</Name>
+        <Ident>LFML</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="9.798828" Lat="48.419834" Alt="2217.00"/>
+        <Pos Lon="5.214996" Lat="43.436668" Alt="32.00"/>
       </Waypoint>
     </Waypoints>
   </Flightplan>

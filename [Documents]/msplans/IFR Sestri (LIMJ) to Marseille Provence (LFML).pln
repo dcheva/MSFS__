@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LIMJ to LFML</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>33000</CruisingAlt>
+        <DepartureID>LIMJ</DepartureID>
+        <DepartureLLA>N44° 24' 47.99",E8° 50' 14.98",+000010.00</DepartureLLA>
+        <DestinationID>LFML</DestinationID>
+        <DestinationLLA>N43° 26' 12.01",E5° 12' 53.99",+000032.00</DestinationLLA>
+        <Descr>LIMJ, LFML</Descr>
+        <DepartureName>Sestri</DepartureName>
+        <DestinationName>Marseille/Provence</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LIMJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 24' 47.99",E8° 50' 14.98",+000010.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LIMJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFML">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 26' 12.01",E5° 12' 53.99",+000032.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFML</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
