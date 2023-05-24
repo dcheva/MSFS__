@@ -2,7 +2,7 @@
 <LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
   <AircraftPerf>
     <Header>
-      <CreationDate>2023-05-24T04:54:53+03:00</CreationDate>
+      <CreationDate>2023-05-24T11:51:12+03:00</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -10,13 +10,11 @@
     </Header>
     <Options>
       <Name>BAe 146-300 / AVRO RJ100</Name>
-      <AircraftType>B463</AircraftType>
+      <AircraftType>B462</AircraftType>
       <Simulator>MSFS</Simulator>
-      <Description>@70% 27k 400kts 800gph 1600nm 4h
-@70% 27k 430kts 765gph 1800nm 4h
-@60% 27k 370kts 570gph 2100nm 6h
+      <Description>@70% 24k 400kts 700gph 1900nm 5h
 Descent
-@30% 24k -1000 315kts 200gph
+@60% 20k -2000 330kts 180gph
 
 </Description>
       <FuelAsVolume>1</FuelAsVolume>
@@ -26,7 +24,7 @@ Descent
       <ContingencyFuelPercent>0.0</ContingencyFuelPercent>
       <ExtraFuelLbsGal>0.000</ExtraFuelLbsGal>
       <MinRunwayLengthFt>0.000</MinRunwayLengthFt>
-      <ReserveFuelLbsGal>600.000</ReserveFuelLbsGal>
+      <ReserveFuelLbsGal>500.000</ReserveFuelLbsGal>
       <RunwayType>SOFT</RunwayType>
       <TaxiFuelLbsGal>0.000</TaxiFuelLbsGal>
       <UsableFuelLbsGal>3840.000</UsableFuelLbsGal>
@@ -36,17 +34,17 @@ Descent
       </Alternate>
       <Climb>
         <FuelFlowLbsGalPerHour>1000.000</FuelFlowLbsGalPerHour>
-        <SpeedKtsTAS>300.000</SpeedKtsTAS>
+        <SpeedKtsTAS>220.000</SpeedKtsTAS>
         <VertSpeedFtPerMin>2000.000</VertSpeedFtPerMin>
       </Climb>
       <Cruise>
-        <FuelFlowLbsGalPerHour>765.000</FuelFlowLbsGalPerHour>
-        <SpeedKtsTAS>430.000</SpeedKtsTAS>
+        <FuelFlowLbsGalPerHour>700.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>400.000</SpeedKtsTAS>
       </Cruise>
       <Descent>
-        <FuelFlowLbsGalPerHour>200.000</FuelFlowLbsGalPerHour>
-        <SpeedKtsTAS>300.000</SpeedKtsTAS>
-        <VertSpeedFtPerMin>1000.000</VertSpeedFtPerMin>
+        <FuelFlowLbsGalPerHour>180.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>330.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>2000.000</VertSpeedFtPerMin>
       </Descent>
     </Perf>
   </AircraftPerf>

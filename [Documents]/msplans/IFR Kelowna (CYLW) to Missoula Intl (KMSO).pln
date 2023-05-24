@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>CYLW to KMSO</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>24000</CruisingAlt>
+        <DepartureID>CYLW</DepartureID>
+        <DepartureLLA>N49° 57' 25.96",W119° 22' 40.52",+001420.00</DepartureLLA>
+        <DestinationID>KMSO</DestinationID>
+        <DestinationLLA>N46° 54' 58.70",W114° 5' 26.02",+003206.00</DestinationLLA>
+        <Descr>CYLW, KMSO</Descr>
+        <DepartureName>Kelowna</DepartureName>
+        <DestinationName>Missoula Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CYLW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 57' 25.96",W119° 22' 40.52",+001420.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYLW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KMSO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 54' 58.70",W114° 5' 26.02",+003206.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMSO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
