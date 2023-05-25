@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>ENTO to LFMD</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>33000</CruisingAlt>
+        <DepartureID>ENTO</DepartureID>
+        <DepartureLLA>N59° 11' 12.01",E10° 15' 30.98",+000268.00</DepartureLLA>
+        <DestinationID>LFMD</DestinationID>
+        <DestinationLLA>N43° 32' 46.99",E6° 57' 15.04",+000010.00</DestinationLLA>
+        <Descr>ENTO, LFMD</Descr>
+        <DepartureName>Torp</DepartureName>
+        <DestinationName>Mandelieu</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="ENTO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N59° 11' 12.01",E10° 15' 30.98",+000268.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ENTO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFMD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 32' 46.99",E6° 57' 15.04",+000010.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFMD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
