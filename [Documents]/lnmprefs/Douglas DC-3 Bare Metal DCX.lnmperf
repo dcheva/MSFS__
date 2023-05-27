@@ -2,7 +2,7 @@
 <LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
   <AircraftPerf>
     <Header>
-      <CreationDate>2023-05-16T08:17:55+03:00</CreationDate>
+      <CreationDate>2023-05-27T16:33:48+03:00</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -12,9 +12,8 @@
       <Name>Douglas DC-3 Bare Metal Emerald</Name>
       <AircraftType>DC3C</AircraftType>
       <Simulator></Simulator>
-      <Description>ui_max_range=1200          ; @200 kts | 1320 @180kts (85%) | 1470 @160kts (75%)
-ui_autonomy=6                ; @200 kts | 7                  | 9
-ui_fuel_burn_rate=150      ; @200 kts | 100                | 80
+      <Description>@85% 5k 125gph 190kts 1100nm 6h
+@75% 3k 110gph 180kts 1200nm 7h
 
 @FL3
 (all65%) 80GPH 145kts
@@ -49,13 +48,13 @@ ui_fuel_burn_rate=150      ; @200 kts | 100                | 80
         <SpeedKtsTAS>150.000</SpeedKtsTAS>
       </Alternate>
       <Climb>
-        <FuelFlowLbsGalPerHour>150.000</FuelFlowLbsGalPerHour>
+        <FuelFlowLbsGalPerHour>170.000</FuelFlowLbsGalPerHour>
         <SpeedKtsTAS>130.000</SpeedKtsTAS>
         <VertSpeedFtPerMin>1000.000</VertSpeedFtPerMin>
       </Climb>
       <Cruise>
-        <FuelFlowLbsGalPerHour>85.000</FuelFlowLbsGalPerHour>
-        <SpeedKtsTAS>175.000</SpeedKtsTAS>
+        <FuelFlowLbsGalPerHour>110.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>180.000</SpeedKtsTAS>
       </Cruise>
       <Descent>
         <FuelFlowLbsGalPerHour>20.000</FuelFlowLbsGalPerHour>

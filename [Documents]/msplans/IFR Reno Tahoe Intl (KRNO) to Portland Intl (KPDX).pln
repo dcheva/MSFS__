@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>KRNO to KPDX</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>33000</CruisingAlt>
+        <DepartureID>KRNO</DepartureID>
+        <DepartureLLA>N39° 29' 56.80",W119° 46' 5.20",+004415.00</DepartureLLA>
+        <DestinationID>KPDX</DestinationID>
+        <DestinationLLA>N45° 35' 19.35",W122° 35' 48.71",+000031.00</DestinationLLA>
+        <Descr>KRNO, KPDX</Descr>
+        <DepartureName>Reno/Tahoe Intl</DepartureName>
+        <DestinationName>Portland Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KRNO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 29' 56.80",W119° 46' 5.20",+004415.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KRNO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KPDX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 35' 19.35",W122° 35' 48.71",+000031.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPDX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -2,7 +2,7 @@
 <LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
   <AircraftPerf>
     <Header>
-      <CreationDate>2023-05-24T23:46:22+03:00</CreationDate>
+      <CreationDate>2023-05-27T18:01:27+03:00</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -14,11 +14,10 @@
       <Simulator>MSFS</Simulator>
       <Description>Climb 1500lbs to FL250 hold 0.4mach
 @90% 20k 240kts[fix] 1100gph
+
 Cruise
-@70% 12k 270kts 410gph 2200nm 8h
-@70% 24k 400kts 700gph 1900nm 5h
-@70% 25k 425kts 770gph 1800nm 4h
-@60% 25k 260kts 350gph 2300nm 9h
+@70% 33k 420kts 685gph 2000nm 5h
+
 Descent
 @60% 20k -2000 330kts 180gph
 
@@ -44,8 +43,8 @@ Descent
         <VertSpeedFtPerMin>2400.000</VertSpeedFtPerMin>
       </Climb>
       <Cruise>
-        <FuelFlowLbsGalPerHour>410.000</FuelFlowLbsGalPerHour>
-        <SpeedKtsTAS>270.000</SpeedKtsTAS>
+        <FuelFlowLbsGalPerHour>685.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>420.000</SpeedKtsTAS>
       </Cruise>
       <Descent>
         <FuelFlowLbsGalPerHour>200.000</FuelFlowLbsGalPerHour>

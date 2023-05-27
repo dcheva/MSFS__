@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>KMYV to KUKI</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>5000</CruisingAlt>
+        <DepartureID>KMYV</DepartureID>
+        <DepartureLLA>N39° 5' 52.00",W121° 34' 11.39",+000064.00</DepartureLLA>
+        <DestinationID>KUKI</DestinationID>
+        <DestinationLLA>N39° 7' 33.41",W123° 12' 3.12",+000617.00</DestinationLLA>
+        <Descr>KMYV, KUKI</Descr>
+        <DepartureName>Yuba County</DepartureName>
+        <DestinationName>Ukiah Muni</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KMYV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 5' 52.00",W121° 34' 11.39",+000064.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMYV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KUKI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 7' 33.41",W123° 12' 3.12",+000617.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KUKI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

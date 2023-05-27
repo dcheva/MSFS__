@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>ELLX to EBOS</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>3000</CruisingAlt>
+        <DepartureID>ELLX</DepartureID>
+        <DepartureLLA>N49° 37' 24.00",E6° 12' 15.97",+001185.00</DepartureLLA>
+        <DestinationID>EBOS</DestinationID>
+        <DestinationLLA>N51° 11' 55.99",E2° 51' 44.02",+000005.00</DestinationLLA>
+        <Descr>ELLX, EBOS</Descr>
+        <DepartureName>Luxembourg</DepartureName>
+        <DestinationName>Ostend</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="ELLX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 37' 24.00",E6° 12' 15.97",+001185.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ELLX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="EBOS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N51° 11' 55.99",E2° 51' 44.02",+000005.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EBOS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
