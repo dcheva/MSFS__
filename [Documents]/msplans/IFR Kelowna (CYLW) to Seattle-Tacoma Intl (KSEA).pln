@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>CYLW to KSEA</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>10000</CruisingAlt>
+        <DepartureID>CYLW</DepartureID>
+        <DepartureLLA>N49° 57' 25.96",W119° 22' 40.52",+001420.00</DepartureLLA>
+        <DestinationID>KSEA</DestinationID>
+        <DestinationLLA>N47° 26' 56.39",W122° 18' 33.52",+000433.00</DestinationLLA>
+        <Descr>CYLW, KSEA</Descr>
+        <DepartureName>Kelowna</DepartureName>
+        <DestinationName>Seattle-Tacoma Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CYLW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 57' 25.96",W119° 22' 40.52",+001420.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYLW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KSEA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 26' 56.39",W122° 18' 33.52",+000433.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KSEA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
