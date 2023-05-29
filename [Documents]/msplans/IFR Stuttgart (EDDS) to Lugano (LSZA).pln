@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EDDS to LSZA</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>11000</CruisingAlt>
+        <DepartureID>EDDS</DepartureID>
+        <DepartureLLA>N48° 41' 23.56",E9° 13' 19.09",+001224.00</DepartureLLA>
+        <DestinationID>LSZA</DestinationID>
+        <DestinationLLA>N46° 0' 12.99",E8° 54' 37.00",+000907.00</DestinationLLA>
+        <Descr>EDDS, LSZA</Descr>
+        <DepartureName>Stuttgart</DepartureName>
+        <DestinationName>Lugano</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDDS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 41' 23.56",E9° 13' 19.09",+001224.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDDS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSZA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 0' 12.99",E8° 54' 37.00",+000907.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSZA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
