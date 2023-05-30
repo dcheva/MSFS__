@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>KSEA to KJAC</Title>
+        <FPType>IFR</FPType>
+        <RouteType>HighAlt</RouteType>
+        <CruisingAlt>33000</CruisingAlt>
+        <DepartureID>KSEA</DepartureID>
+        <DepartureLLA>N47° 27' 48.82",W122° 19' 4.36",+000433.00</DepartureLLA>
+        <DestinationID>KJAC</DestinationID>
+        <DestinationLLA>N43° 36' 26.40",W110° 44' 15.92",+006451.00</DestinationLLA>
+        <Descr>KSEA, KJAC</Descr>
+        <DeparturePosition>16R</DeparturePosition>
+        <DepartureName>Seattle-Tacoma Intl</DepartureName>
+        <DestinationName>Jackson Hole</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KSEA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 26' 56.39",W122° 18' 33.52",+000433.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KSEA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="DBS">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N44° 5' 19.87",W112° 12' 33.63",+033000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>K1</ICAORegion>
+                <ICAOIdent>DBS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WOMRU">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N43° 43' 54.16",W110° 40' 37.12",+010195.35</WorldPosition>
+            <ICAO>
+                <ICAORegion>K1</ICAORegion>
+                <ICAOIdent>WOMRU</ICAOIdent>
+                <ICAOAirport>KJAC</ICAOAirport>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="JAC">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N43° 37' 15.75",W110° 43' 54.08",+006859.48</WorldPosition>
+            <ICAO>
+                <ICAORegion>K1</ICAORegion>
+                <ICAOIdent>JAC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KJAC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 36' 26.40",W110° 44' 15.92",+006451.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KJAC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
