@@ -2,7 +2,7 @@
 <LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
   <AircraftPerf>
     <Header>
-      <CreationDate>2023-05-28T13:36:48+03:00</CreationDate>
+      <CreationDate>2023-05-30T22:44:38+03:00</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -17,6 +17,7 @@
 
 Cruise
 @70% 33k 420kts 685gph 2000nm 5h
+@70% 30k 430kts 715gph 2000nm 5h
 
 Descent
 @60% 20k -2000 330kts 180gph
@@ -39,12 +40,12 @@ Descent
       </Alternate>
       <Climb>
         <FuelFlowLbsGalPerHour>1200.000</FuelFlowLbsGalPerHour>
-        <SpeedKtsTAS>230.000</SpeedKtsTAS>
-        <VertSpeedFtPerMin>2400.000</VertSpeedFtPerMin>
+        <SpeedKtsTAS>260.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>2000.000</VertSpeedFtPerMin>
       </Climb>
       <Cruise>
-        <FuelFlowLbsGalPerHour>685.000</FuelFlowLbsGalPerHour>
-        <SpeedKtsTAS>420.000</SpeedKtsTAS>
+        <FuelFlowLbsGalPerHour>715.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>430.000</SpeedKtsTAS>
       </Cruise>
       <Descent>
         <FuelFlowLbsGalPerHour>200.000</FuelFlowLbsGalPerHour>
