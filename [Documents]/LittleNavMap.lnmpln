@@ -3,8 +3,8 @@
   <Flightplan>
     <Header>
       <FlightplanType>IFR</FlightplanType>
-      <CruisingAlt>11000</CruisingAlt>
-      <CreationDate>2023-05-26T13:14:13+03:00</CreationDate>
+      <CruisingAlt>15000</CruisingAlt>
+      <CreationDate>2023-05-31T17:01:53+03:00</CreationDate>
       <FileVersion>1.1</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -13,22 +13,29 @@
     <SimData>MSFS</SimData>
     <NavData Cycle="1801">NAVIGRAPH</NavData>
     <AircraftPerformance>
-      <FilePath>Grumman Goose G21A Analog.lnmperf</FilePath>
-      <Type>G21</Type>
-      <Name>Grumman Goose G21A</Name>
+      <FilePath>BAe 146-200 AVRO RJ85.lnmperf</FilePath>
+      <Type>B462</Type>
+      <Name>BAe 146-300 / AVRO RJ100</Name>
     </AircraftPerformance>
     <Waypoints>
       <Waypoint>
-        <Name>Sestri</Name>
-        <Ident>LIMJ</Ident>
+        <Name>Jackson Hole</Name>
+        <Ident>KJAC</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="8.837494" Lat="44.413330" Alt="10.00"/>
+        <Pos Lon="-110.737755" Lat="43.607334" Alt="6451.00"/>
       </Waypoint>
       <Waypoint>
-        <Name>Mandelieu</Name>
-        <Ident>LFMD</Ident>
+        <Name>Missoula</Name>
+        <Ident>MSO</Ident>
+        <Region>K1</Region>
+        <Type>VOR</Type>
+        <Pos Lon="-114.083656" Lat="46.907967" Alt="3477.18"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Missoula Intl</Name>
+        <Ident>KMSO</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="6.954178" Lat="43.546387" Alt="10.00"/>
+        <Pos Lon="-114.090561" Lat="46.916306" Alt="3206.00"/>
       </Waypoint>
     </Waypoints>
   </Flightplan>

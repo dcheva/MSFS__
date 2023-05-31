@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>KJAC to KMSO</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>15000</CruisingAlt>
+        <DepartureID>KJAC</DepartureID>
+        <DepartureLLA>N43° 36' 26.40",W110° 44' 15.92",+006451.00</DepartureLLA>
+        <DestinationID>KMSO</DestinationID>
+        <DestinationLLA>N46° 54' 58.70",W114° 5' 26.02",+003206.00</DestinationLLA>
+        <Descr>KJAC, KMSO</Descr>
+        <DepartureName>Jackson Hole</DepartureName>
+        <DestinationName>Missoula Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KJAC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 36' 26.40",W110° 44' 15.92",+006451.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KJAC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MSO">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N46° 54' 28.68",W114° 5' 1.16",+003477.18</WorldPosition>
+            <ICAO>
+                <ICAORegion>K1</ICAORegion>
+                <ICAOIdent>MSO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KMSO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 54' 58.70",W114° 5' 26.02",+003206.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMSO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

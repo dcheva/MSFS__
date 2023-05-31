@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>KFOT to 3S4</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>10000</CruisingAlt>
+        <DepartureID>KFOT</DepartureID>
+        <DepartureLLA>N40° 33' 14.20",W124° 7' 57.58",+000393.00</DepartureLLA>
+        <DestinationID>3S4</DestinationID>
+        <DestinationLLA>N42° 6' 12.96",W123° 40' 56.71",+001394.00</DestinationLLA>
+        <Descr>KFOT, 3S4</Descr>
+        <DepartureName>Rohnerville</DepartureName>
+        <DestinationName>Illinois Valley</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KFOT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 33' 14.20",W124° 7' 57.58",+000393.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KFOT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="3S4">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 6' 12.96",W123° 40' 56.71",+001394.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3S4</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
