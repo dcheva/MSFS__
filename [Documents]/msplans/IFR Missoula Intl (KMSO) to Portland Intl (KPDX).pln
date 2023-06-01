@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>KMSO to KPDX</Title>
+        <FPType>IFR</FPType>
+        <RouteType>HighAlt</RouteType>
+        <CruisingAlt>33000</CruisingAlt>
+        <DepartureID>KMSO</DepartureID>
+        <DepartureLLA>N46° 54' 58.70",W114° 5' 26.02",+003206.00</DepartureLLA>
+        <DestinationID>KPDX</DestinationID>
+        <DestinationLLA>N45° 35' 19.35",W122° 35' 48.71",+000031.00</DestinationLLA>
+        <Descr>KMSO, KPDX</Descr>
+        <DepartureName>Missoula Intl</DepartureName>
+        <DestinationName>Portland Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KMSO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 54' 58.70",W114° 5' 26.02",+003206.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMSO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MSO">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N46° 54' 28.68",W114° 5' 1.16",+003478.94</WorldPosition>
+            <ICAO>
+                <ICAORegion>K1</ICAORegion>
+                <ICAOIdent>MSO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MQG">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N46° 22' 53.61",W116° 52' 10.25",+033000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>K1</ICAORegion>
+                <ICAOIdent>MQG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ALW">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N46° 5' 13.11",W118° 17' 33.12",+033000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>K1</ICAORegion>
+                <ICAOIdent>ALW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LTJ">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N45° 42' 48.91",W121° 6' 2.99",+031687.78</WorldPosition>
+            <ICAO>
+                <ICAORegion>K1</ICAORegion>
+                <ICAOIdent>LTJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KPDX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 35' 19.35",W122° 35' 48.71",+000031.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPDX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
