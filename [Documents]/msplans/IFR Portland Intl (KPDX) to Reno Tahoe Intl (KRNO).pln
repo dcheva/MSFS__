@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>KPDX to KRNO</Title>
+        <FPType>IFR</FPType>
+        <RouteType>HighAlt</RouteType>
+        <CruisingAlt>26000</CruisingAlt>
+        <DepartureID>KPDX</DepartureID>
+        <DepartureLLA>N45° 35' 19.35",W122° 35' 48.71",+000031.00</DepartureLLA>
+        <DestinationID>KRNO</DestinationID>
+        <DestinationLLA>N39° 29' 56.80",W119° 46' 5.20",+004415.00</DestinationLLA>
+        <Descr>KPDX, KRNO</Descr>
+        <DepartureName>Portland Intl</DepartureName>
+        <DestinationName>Reno/Tahoe Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KPDX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 35' 19.35",W122° 35' 48.71",+000031.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPDX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LMT">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N42° 9' 11.34",W121° 43' 39.09",+026000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>K1</ICAORegion>
+                <ICAOIdent>LMT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="AHC">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N40° 16' 4.31",W120° 9' 7.09",+026000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>K2</ICAORegion>
+                <ICAOIdent>AHC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="FMG">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N39° 31' 52.60",W119° 39' 21.87",+007102.28</WorldPosition>
+            <ICAO>
+                <ICAORegion>K2</ICAORegion>
+                <ICAOIdent>FMG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KRNO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 29' 56.80",W119° 46' 5.20",+004415.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KRNO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
