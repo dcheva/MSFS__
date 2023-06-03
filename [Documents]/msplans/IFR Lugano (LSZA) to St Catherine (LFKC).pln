@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LSZA to LFKC</Title>
+        <FPType>IFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>21000</CruisingAlt>
+        <DepartureID>LSZA</DepartureID>
+        <DepartureLLA>N46° 0' 12.99",E8° 54' 37.00",+000907.00</DepartureLLA>
+        <DestinationID>LFKC</DestinationID>
+        <DestinationLLA>N42° 31' 28.00",E8° 47' 35.02",+000133.00</DestinationLLA>
+        <Descr>LSZA, LFKC</Descr>
+        <DepartureName>Lugano</DepartureName>
+        <DestinationName>St Catherine</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LSZA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 0' 12.99",E8° 54' 37.00",+000907.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSZA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFKC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 31' 28.00",E8° 47' 35.02",+000133.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFKC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
