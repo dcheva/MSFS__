@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>3S4 to KOTH</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>10000</CruisingAlt>
+        <DepartureID>3S4</DepartureID>
+        <DepartureLLA>N42° 6' 12.96",W123° 40' 56.71",+001394.00</DepartureLLA>
+        <DestinationID>KOTH</DestinationID>
+        <DestinationLLA>N43° 25' 0.99",W124° 14' 49.29",+000017.00</DestinationLLA>
+        <Descr>3S4, KOTH</Descr>
+        <DepartureName>Illinois Valley</DepartureName>
+        <DestinationName>Southwest Oregon Rgnl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="3S4">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 6' 12.96",W123° 40' 56.71",+001394.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3S4</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OT">
+            <ATCWaypointType>NDB</ATCWaypointType>
+            <WorldPosition>N43° 23' 40.02",W124° 18' 36.98",+004013.15</WorldPosition>
+            <ICAO>
+                <ICAORegion>K1</ICAORegion>
+                <ICAOIdent>OT</ICAOIdent>
+                <ICAOAirport>KOTH</ICAOAirport>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OTH">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N43° 24' 55.82",W124° 10' 6.69",+001422.70</WorldPosition>
+            <ICAO>
+                <ICAORegion>K1</ICAORegion>
+                <ICAOIdent>OTH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KOTH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 25' 0.99",W124° 14' 49.29",+000017.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KOTH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

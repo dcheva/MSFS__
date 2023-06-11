@@ -4,7 +4,7 @@
     <FlightPlan.FlightPlan>
         <Title>LSZA to LFKC</Title>
         <FPType>IFR</FPType>
-        <RouteType>Direct</RouteType>
+        <RouteType>HighAlt</RouteType>
         <CruisingAlt>21000</CruisingAlt>
         <DepartureID>LSZA</DepartureID>
         <DepartureLLA>N46° 0' 12.99",E8° 54' 37.00",+000907.00</DepartureLLA>
@@ -22,6 +22,14 @@
             <WorldPosition>N46° 0' 12.99",E8° 54' 37.00",+000907.00</WorldPosition>
             <ICAO>
                 <ICAOIdent>LSZA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="GEN">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N44° 25' 28.01",E9° 4' 56.40",+021000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LI</ICAORegion>
+                <ICAOIdent>GEN</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
         <ATCWaypoint id="LFKC">

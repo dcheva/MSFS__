@@ -3,8 +3,8 @@
   <Flightplan>
     <Header>
       <FlightplanType>IFR</FlightplanType>
-      <CruisingAlt>33000</CruisingAlt>
-      <CreationDate>2023-06-01T21:20:31+03:00</CreationDate>
+      <CruisingAlt>21000</CruisingAlt>
+      <CreationDate>2023-06-04T07:21:24+03:00</CreationDate>
       <FileVersion>1.1</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.8.10</ProgramVersion>
@@ -19,44 +19,16 @@
     </AircraftPerformance>
     <Waypoints>
       <Waypoint>
-        <Name>Missoula Intl</Name>
-        <Ident>KMSO</Ident>
+        <Name>Lugano</Name>
+        <Ident>LSZA</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="-114.090561" Lat="46.916306" Alt="3206.00"/>
+        <Pos Lon="8.910278" Lat="46.003609" Alt="907.00"/>
       </Waypoint>
       <Waypoint>
-        <Name>Missoula</Name>
-        <Ident>MSO</Ident>
-        <Region>K1</Region>
-        <Type>VOR</Type>
-        <Pos Lon="-114.083656" Lat="46.907967" Alt="3478.94"/>
-      </Waypoint>
-      <Waypoint>
-        <Name>Nez Perce Lewiston</Name>
-        <Ident>MQG</Ident>
-        <Region>K1</Region>
-        <Type>VOR</Type>
-        <Pos Lon="-116.869514" Lat="46.381557" Alt="33000.00"/>
-      </Waypoint>
-      <Waypoint>
-        <Name>Walla Walla</Name>
-        <Ident>ALW</Ident>
-        <Region>K1</Region>
-        <Type>VOR</Type>
-        <Pos Lon="-118.292534" Lat="46.086975" Alt="33000.00"/>
-      </Waypoint>
-      <Waypoint>
-        <Name>Klickitat The Dalles</Name>
-        <Ident>LTJ</Ident>
-        <Region>K1</Region>
-        <Type>VOR</Type>
-        <Pos Lon="-121.100830" Lat="45.713585" Alt="31687.78"/>
-      </Waypoint>
-      <Waypoint>
-        <Name>Portland Intl</Name>
-        <Ident>KPDX</Ident>
+        <Name>St Catherine</Name>
+        <Ident>LFKC</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="-122.596863" Lat="45.588707" Alt="31.00"/>
+        <Pos Lon="8.793060" Lat="42.524445" Alt="133.00"/>
       </Waypoint>
     </Waypoints>
   </Flightplan>
